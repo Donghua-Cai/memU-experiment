@@ -180,6 +180,67 @@ Contains character memory files:
 
 ## Understanding Results
 
+### Result JSON Structure
+
+The test generates a comprehensive JSON file (`enhanced_memory_test_results_TIMESTAMP.json`) with the following structure:
+
+```json
+{
+  "args": {
+    "data_file": "data/locomo10.json",
+    "sample_use": null,
+    "memory_dir": "memory",
+    "chat_deployment": "gpt-4o-mini",
+    "max_workers": 20,
+    "category": null,
+    "use_image": true,
+    "use_profile": "none",
+    "force_resum": false,
+    "no_eval": false,
+    "analyze_on": "wrong"
+  },
+  "script": "locomo_test.py --memory-dir=memory --max-workers=20",
+  "success": true,
+  "summary": {
+    "total_samples": 10,
+    "successful_samples": 10,
+    "total_sessions": 272,
+    "sessions_processed": 272,
+    "sessions_skipped": 0,
+    "total_questions": 1986,
+    "total_correct": 1754,
+    "overall_accuracy": 0.8831,
+    "category_stats": {
+      "1": {"total": 282, "correct": 249},
+      "2": {"total": 321, "correct": 297},
+      "3": {"total": 96, "correct": 74},
+      "4": {"total": 841, "correct": 798},
+      "5": {"total": 2, "correct": 2}
+    },
+    "category_accuracies": {
+      "1": 0.8830,
+      "2": 0.9252,
+      "3": 0.7708,
+      "4": 0.9489,
+      "5": 1.0
+    },
+    "total_time": 2866.21,
+    "avg_time_per_sample": 286.62
+  },
+  "sample_wise_stats": {
+    "1": {
+      "1": {"total": 32, "correct": 30, "accuracy": 0.9375},
+      "2": {"total": 37, "correct": 37, "accuracy": 1.0},
+      "3": {"total": 13, "correct": 13, "accuracy": 1.0},
+      "4": {"total": 70, "correct": 69, "accuracy": 0.9857},
+      "5": {"total": 2, "correct": 2, "accuracy": 1.0}
+    },
+    ...
+  },
+  "detailed_results": [...]
+}
+```
+
 ### Console Output
 
 During execution, you'll see:
@@ -187,23 +248,24 @@ During execution, you'll see:
 2. **Real-time statistics** - Accuracy updates after each sample
 3. **Final summary** - Complete results with category breakdown
 
-Example output:
+Example console output:
 ```
 ENHANCED MEMORY TEST RESULTS - UNIFIED MEMAGENT
 ================================================================
 Samples processed: 10/10
-Total sessions: 50
-Sessions processed: 50
-Total questions: 100
-Total correct: 85
-Overall accuracy: 85.00%
+Total sessions: 272
+Sessions processed: 272
+Total questions: 1986
+Total correct: 1754
+Overall accuracy: 88.31%
 
 CATEGORY-WISE ACCURACY
 ================================================================
-Category 0                     12/ 15 (80.0%) [3 errors]
-Category 1                     18/ 20 (90.0%) [2 errors]
-Category 2                     25/ 30 (83.3%) [5 errors]
-...
+Category 1                    249/282 (88.3%) [33 errors]
+Category 2                    297/321 (92.5%) [24 errors]
+Category 3                     74/ 96 (77.1%) [22 errors]
+Category 4                    798/841 (94.9%) [43 errors]
+Category 5                      2/  2 (100.0%) [0 errors]
 ```
 
 ### Accuracy Metrics
@@ -272,50 +334,21 @@ python locomo_test.py --force-resum --no-eval
 3. **Category Focus**: Use `--category` to focus on specific question types
 4. **Skip Evaluation**: Use `--no-eval` when only updating memories
 
-## Project Structure
-
-```
-.
-├── locomo_test.py          # Main test script
-├── mem_agent.py            # Memory management agent
-├── response_agent.py       # Question answering agent
-├── evaluate_agent.py       # Answer evaluation agent
-├── llm_factory.py          # LLM client factory
-├── data/
-│   └── locomo10.json      # Test data
-├── memory/                 # Character memory files
-├── prompts/               # System prompts
-└── README.md              # This file
-```
 
 ## Citation
 
 If you use this testing framework, please cite the LoCoMo benchmark paper:
 
 ```bibtex
-@article{locomo2024,
-  title={LoCoMo: Long-term Conversational Memory Benchmark},
-  author={[Authors]},
-  journal={[Journal/Conference]},
-  year={2024}
+@inproceedings{maharana2024locomo,
+  title     = {Evaluating Very Long-Term Conversational Memory of LLM Agents},
+  author    = {Adyasha Maharana and Dong-Ho Lee and Sergey Tulyakov and Mohit Bansal and Francesco Barbieri and Yuwei Fang},
+  booktitle = {Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)},
+  pages     = {13851--13870},
+  year      = {2024},
+  address   = {Bangkok, Thailand},
+  publisher = {Association for Computational Linguistics},
+  doi       = {10.18653/v1/2024.acl-long.747},
+  url       = {https://aclanthology.org/2024.acl-long.747/}
 }
 ```
-
-## License
-
-[Specify your license here]
-
-## Support
-
-For issues and questions:
-- Check error logs for detailed failure information
-- Review the comprehensive evaluation output
-- Examine memory files to verify extraction quality
-
-## Contributing
-
-Contributions are welcome! Please ensure:
-- Code follows existing style (English comments/docs)
-- All tests pass
-- Error logging is comprehensive
-
