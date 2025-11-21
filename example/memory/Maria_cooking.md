@@ -1,0 +1,3 @@
+[369d47][mentioned at 2025-07-29] On July 29, 2025, John shared a photograph of a dinner with his family around the kitchen table, expressing the value of making memories together, and Maria responded positively, recalling that shared meals create wonderful memories. []
+[8446aa][mentioned at 2025-07-29] On July 29, 2025, Maria shared a photograph of a table filled with pizzas and salads, discussing the bonding experience of cooking together and asking John what he made, to which John revealed that they had made their own pizzas and enjoyed choosing toppings together. []
+[bd0f4d][mentioned at 2025-07-29] On July 29, 2025, Maria mentioned that she had made peach cobbler recently while reflecting on the laughter and fun John's family had while making pizzas. []
