@@ -1,0 +1,3 @@
+# Ignore all contents under data except locomo10.json
+data/*
+!data/locomo10.json
