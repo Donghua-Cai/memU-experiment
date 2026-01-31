@@ -1,0 +1,41 @@
+User profile:
+
+## Personal Information
+- Name: user003 Thompson
+- Location: Chhattisgarh, India
+
+## Personality & Characteristics
+- Inquisitive and engaged in discussions about various topics, including sustainability and food waste reduction.
+- Values support for women in business and economic empowerment.
+- Currently experiencing trouble falling asleep, likely due to overstimulation before bedtime.
+- Enjoys photography, particularly capturing sunrise shots.
+
+## Relationships
+- Engaged in conversations with various stakeholders regarding women's entrepreneurship.
+- Interested in learning from successful women entrepreneurs.
+- Sister: Celebrating her birthday soon.
+- Thesis advisor: Meeting soon to discuss research progress.
+
+## Interests & Activities
+- Advocating for women entrepreneurs in Chhattisgarh.
+- Seeking information about resources and support systems for women in business.
+- Enjoys listening to musicals, particularly "Hamilton" and "Hadestown."
+- Interested in exploring themes of social justice and identity in theater.
+- Actively learning about social media marketing and analytics to improve business presence.
+- Recently traveled to Chicago and San Francisco, enjoying local food and exploring urban environments.
+- Planning a trip to Seattle next month and focusing on packing efficiently for the rainy weather.
+- Interested in watches, particularly those with leather straps, for gifting.
+- Attending yoga classes at a new studio near her apartment, specifically Vinyasa flow on Tuesdays at 7 pm.
+- Currently working on a literature review on the impact of big data on business decision-making, focusing on predictive analytics in the retail industry.
+- Using Matplotlib and Seaborn for data visualization in Python and planning to create an interactive dashboard using Tableau.
+- Recently started using Apple News and listening to The Daily podcast to stay informed without feeling overwhelmed.
+- Planning a trip to Yellowstone National Park with her family, including a focus on family-friendly accommodations and activities.
+- Recently engaged in creating corporate messages for occasions like Valentine's Day in her flower company.
+- Recently participated in a charity bike ride organized by the local cycling club on February 10th, where she rode 20 kilometers and raised $250 for cancer research.
+- Currently planning to watch MCU movies in chronological order, starting with "Captain America: The First Avenger."
+
+## Life Situation
+- Concerned about the challenges facing women entrepreneurs in Chhattisgarh.
+- Interested in government initiatives and support for women-led businesses.
+- Currently updating personal information across various platforms (social media, email, driver's license, etc.) following a name change.
+- Working on Coursera courses, dedicating 2-3 hours a week, and has completed the third module out of six in statistics and data analysis.

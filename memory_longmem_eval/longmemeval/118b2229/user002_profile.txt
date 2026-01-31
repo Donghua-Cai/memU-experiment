@@ -1,0 +1,30 @@
+## Personal Information
+- Name: user002
+- Occupation: Senior Engineer
+- Family: Daughter (Emma)
+
+## Personality & Characteristics
+- Inquisitive and engaged in environmental issues, particularly regarding gibbons and coral reefs.
+- Values conservation and sustainability.
+- Collaborative and values team input in decision-making processes.
+
+## Relationships
+- Daughter: Emma
+- Colleagues: Works with a team of five engineers.
+- Friend: Maiko Haga (aspiring data analyst)
+
+## Interests & Activities
+- Interested in marine conservation, specifically coral reef protection and restoration in the Red Sea.
+- Engaged in nature and wildlife photography, particularly focused on flowers and spring blooms.
+- Actively seeking resources and knowledge in data science and AI, especially in the context of entrepreneurship and startups.
+- Enjoys experimenting with cocktail recipes, particularly classic cocktails like Negronis, Daiquiris, and Whiskey Sours.
+- Exploring project management tools and techniques for effective goal-setting and team collaboration.
+- Currently enrolled in a Financial Management and Decision Making course.
+- Enjoys cooking and experimenting with new recipes, particularly those that incorporate a variety of vegetables.
+- Recently developed an interest in vinyl collecting and discovering new music.
+
+## Life Situation
+- Currently facing challenges related to filing a claim for damages caused by a recent hurricane in their area.
+- Setting goals for the next quarter in their role as a senior engineer, following a performance review with Rachel.
+- Preparing for an upcoming internship or career path as a data analyst, applying concepts learned in the Financial Management and Decision Making course.
+- Recently fixed kitchen shelves, leading to a more organized kitchen space.
