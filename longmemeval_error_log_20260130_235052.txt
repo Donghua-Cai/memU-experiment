@@ -1,4 +1,0 @@
-LongMemEval Error Log - 2026-01-30 23:50:52
-================================================================================
-This log contains detailed information for incorrect answers.
-

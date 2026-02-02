@@ -1,0 +1,407 @@
+Mentioned at 2023/05/20 (Sat) 03:42: user028 discussed various academic papers related to autonomous vehicle localization. They highlighted several key works, including "Probabilistic Robotics" by Sebastian Thrun et al., which covers topics such as sensor fusion and localization techniques. user028 also mentioned a survey paper by Montiel et al. that reviews different localization methods for mobile robots, emphasizing sensor-based and map-based approaches.
+
+Mentioned at 2023/05/20 (Sat) 03:42: user028 referred to a paper titled "Visual Localization for Autonomous Vehicles" by Tung et al., which introduces a method based on 3D point clouds and convolutional neural networks. Additionally, they noted a robust localization method proposed by Zhang et al. that utilizes multi-sensor fusion, integrating GPS, LiDAR, and cameras for improved accuracy.
+
+Mentioned at 2023/05/20 (Sat) 03:42: user028 mentioned another significant paper, "Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction" by Yin et al., which presents a method applicable for localization in autonomous vehicles. They also discussed a lane detection method by Naqvi et al. that employs probabilistic modeling for enhancing vehicle localization.
+
+Mentioned at 2023/05/20 (Sat) 03:42: user028 highlighted a paper by Moon et al. that details a localization approach using a camera and a laser range finder, demonstrating its effectiveness in real-world scenarios. Lastly, they referenced "Visual-Inertial Localization for Autonomous Driving" by Lenz et al., which combines visual and inertial sensor data for robust localization in autonomous driving contexts.
+
+Mentioned at 2023/05/20 (Sat) 11:35: User028 has been living in their new one-bedroom apartment, which is around 700 sq ft, since October 15th of last year. They expressed a desire to decorate the space, seeking interior design inspiration to make it feel less bare. User028 mentioned that their personal style is modern and minimalist, with a preference for a neutral color palette of beige, gray, and white. They are looking to spend around $2,000 to $3,000 on decorating.
+
+Mentioned at 2023/05/20 (Sat) 11:35: User028 recently turned 30 and is feeling like it's time to take their life more seriously, which motivates them to want their apartment to reflect this personal growth and maturity. They are considering adding personal touches to their apartment to reflect their personality and recent accomplishments, specifically their marathon and triathlon achievements. They decided to go with a medal display rack and personalized artwork, envisioning a stylized representation of their marathon route that includes subtle design elements reflecting their personality.
+
+Mentioned at 2023/05/20 (Sat) 11:35: User028 plans to commission a freelance artist from Upwork for the artwork. They expressed an interest in writing a clear and effective project description to attract the best bids and ensure their requirements and expectations are well outlined. User028 intends to review artists' portfolios and bids carefully to find the best fit for their project.
+
+Mentioned at 2023/05/20 (Sat) 03:25: User028 expressed a desire to find new recipe ideas for healthy snacks to try over the weekend, specifically looking for options that are easy to prepare and won't lead to overeating.
+
+Mentioned at 2023/05/20 (Sat) 03:25: User028 showed interest in roasted chickpeas and veggie sticks with hummus as healthy snack options, mentioning that they have been trying to prepare more snacks at home to avoid relying on packaged goods. They noted that they have been keeping a stash of dark chocolate chips at their desk.
+
+Mentioned at 2023/05/20 (Sat) 03:25: User028 noted that they have been consuming a lot of coffee in the afternoons, which often leads to cravings for something sweet to accompany it.
+
+Mentioned at 2023/05/20 (Sat) 03:25: User028 revealed that they have been experimenting with new recipes and ingredients, including making their own hummus for the first time, which turned out surprisingly well. They used a basic recipe that included chickpeas, tahini, lemon juice, garlic, and olive oil, and have been dipping raw veggies in the hummus instead of reaching for crackers or chips.
+
+Mentioned at 2023/05/20 (Sat) 03:25: User028 expressed interest in trying other dips and spreads, specifically mentioning a desire to make guacamole and having heard good things about roasted red pepper hummus.
+
+Mentioned at 2023/05/21 (Sun) 04:15: User028 expressed interest in the purpose of Machu Picchu, noting its historical significance as an ancient Inca city built in the 15th century. They learned that it is believed to have served as a royal estate and religious sanctuary for the Inca emperor Pachacuti and his followers. User028 also found it fascinating that Machu Picchu remained hidden for centuries until its rediscovery in 1911 by American archaeologist Hiram Bingham.
+
+Mentioned at 2023/05/21 (Sun) 04:15: User028 inquired about modern archaeological discoveries at Machu Picchu since its rediscovery. They were informed that researchers have utilized non-invasive techniques like LIDAR and ground-penetrating radar to map the site, revealing hidden rooms and structures, as well as new buildings, terraces, and an underground water system used for irrigation.
+
+Mentioned at 2023/05/21 (Sun) 04:15: User028 showed interest in ongoing research projects related to Machu Picchu. They learned about the Machu Picchu Conservation Project and the Machu Picchu Digital Preservation Project, which aims to create high-resolution scans of the site. User028 appreciated the efforts of various archaeological teams conducting excavations to uncover more about the city's construction and function.
+
+Mentioned at 2023/05/21 (Sun) 04:15: User028 asked about plans to make new discoveries at Machu Picchu more accessible to visitors. They were informed about the creation of a virtual tour through the Machu Picchu Digital Preservation Project and the development of a new museum near the site to showcase the latest archaeological research and provide a deeper understanding of the Inca civilization.
+
+Mentioned at 2023/05/21 (Sun) 04:15: User028 expressed excitement about visiting Machu Picchu and sought recommendations on what to see and do there. They received suggestions including taking a guided tour, hiking Huayna Picchu for stunning views, exploring the Inca Bridge, walking to the Sun Gate, and visiting the Temple of the Sun.
+
+Mentioned at 2023/05/21 (Sun) 04:15: User028 inquired about the best time of year to visit Machu Picchu for optimal weather and views. They learned that the dry season from May to October is the most popular time due to sunny weather, while the shoulder seasons of April and November may offer fewer crowds and a more peaceful experience, despite variable weather conditions.
+
+Mentioned at 2023/05/20 (Sat) 13:36: User028 inquired about the methods graphic novelists use to create detailed illustrations and engaging dialogue that captivate readers. They expressed curiosity about the various techniques employed by graphic novelists, highlighting the complexity of the craft and the tools available to them.
+
+Mentioned at 2023/05/20 (Sat) 13:36: User028 reflected on the challenges graphic novelists face, particularly in balancing storytelling elements such as character development, pacing, and color. They acknowledged that "juggling character development, pacing, color, layout, dialogue, action, symbolism, typography, and experimentation can be overwhelming," and questioned how graphic novelists manage to keep track of so many different techniques at once.
+
+Mentioned at 2023/05/20 (Sat) 13:36: User028 discussed the issue of writer's block and creativity challenges faced by graphic novelists, drawing parallels to traditional writers. They recognized that while the visual aspect of storytelling may provide some advantages, it also introduces unique complexities that can complicate the creative process.
+
+Mentioned at 2023/05/20 (Sat) 13:36: User028 shared their thoughts on the growing recognition of graphic novels as a legitimate form of literature. They attributed this change to the emergence of high-quality works, increased visibility through digital platforms, and the recognition of graphic novels by the literary community, stating that "the growing recognition and acceptance of graphic novels as a legitimate form of literature are a reflection of the increasing diversity and richness of the literary landscape."
+
+Mentioned at 2023/05/20 (Sat) 13:36: User028 posited that the rise of superhero movies and TV shows has contributed to the legitimacy of graphic novels. They suggested that adaptations have sparked interest in the original stories and characters, helping to challenge stereotypes and elevate graphic novels to a status comparable to traditional literature, indicating that "seeing these characters on the big screen has made people more interested in their origins and stories."
+
+Mentioned at 2023/05/21 (Sun) 08:59: User028 inquired about popular street food dishes to try in Bangkok and asked for the best places to find them, expressing a keen interest in exploring the local cuisine. They specifically asked, "What are some popular street food dishes to try in Bangkok, and where are the best places to find them?"
+
+Mentioned at 2023/05/21 (Sun) 08:59: User028 expressed excitement about the variety of street food options in Bangkok and sought recommendations for dishes that would be suitable for someone who is less adventurous with spicy food. They decided to try Khao Moo Daeng and Moo Ping based on the suggestions provided.
+
+Mentioned at 2023/05/21 (Sun) 08:59: User028 requested additional tips for navigating street food in Bangkok for the first time, indicating their eagerness to make the most of the experience. They were advised to look for crowded stalls, carry small bills, and not hesitate to ask vendors for recommendations.
+
+Mentioned at 2023/05/21 (Sun) 08:59: User028 showed enthusiasm for exploring street food markets and areas in Bangkok, asking for recommendations on good locations to experience street food. They were provided with a list of popular destinations, including Yaowarat Road in Chinatown and Chatuchak Weekend Market.
+
+Mentioned at 2023/05/21 (Sun) 08:59: User028 also inquired about vegetarian street food options in Bangkok, indicating a preference for non-meat dishes while exploring the local cuisine. They received a variety of suggestions, including Pad Pak Boong and vegetarian spring rolls, highlighting the availability of delicious vegetarian choices.
+
+Mentioned at 2023/05/21 (Sun) 10:15: User028 inquired about the process of filing a claim for damages caused by a natural disaster in their area, seeking guidance on how to navigate this situation. They expressed a need for specific details regarding the recent hurricane that impacted their location, indicating a pressing concern about the aftermath of the disaster.
+
+Mentioned at 2023/05/21 (Sun) 10:15: User028 expressed frustration with the general information provided by the AI, stating, "I need specific information on how to file a claim for damages caused by the hurricane in my area." This highlights their urgent need for tailored assistance related to the hurricane's impact on their property and the claim process.
+
+Mentioned at 2023/05/21 (Sun) 10:15: User028 reiterated their dissatisfaction with the AI's inability to provide real-time information, questioning its usefulness in their situation. They emphasized their need for specific guidance on filing a claim for damages resulting from the hurricane, reflecting their urgency and concern about the situation.
+
+Mentioned at 2023/05/21 (Sun) 10:15: User028 was advised to document the damage by taking photographs and videos, contact their insurance company for specific instructions, explore government assistance, and consider hiring an attorney if they faced challenges with compensation. However, user028's need for immediate and specific guidance remained unaddressed, as they were looking for tailored information regarding the recent hurricane.
+
+Mentioned at 2023/05/22 (Mon) 11:14: User028 requested a sample code to use the LIN protocol in Python on a Raspberry Pi, expressing a need for guidance on implementing this communication protocol in their project. They specifically asked, "GIve me a sample code to use LIN protocol in raspberry pi in python."
+
+Mentioned at 2023/05/22 (Mon) 11:14: User028 inquired about how to use a LIN description file (LDF) with the provided sample code. They were interested in integrating the LIN description file into their Python implementation for better communication with the LIN bus.
+
+Mentioned at 2023/05/22 (Mon) 11:14: User028 asked what the structure of the `my_lin_description.ldf` file should look like. They were seeking clarity on the format and content required for the LIN description file to ensure proper functionality in their project.
+
+Mentioned at 2023/05/22 (Mon) 11:14: User028 wanted to know how to declare master and slave nodes in the LDF file. They were looking for specific instructions on defining the roles of nodes within their LIN network configuration.
+
+Mentioned at 2023/05/22 (Mon) 16:02: User028 arrived in Tokyo on this day and expressed feeling overwhelmed by the language barrier and the size of the city. They are trying to find good restaurants that serve authentic Japanese food and sought recommendations for resources or apps to help navigate the dining scene.
+
+Mentioned at 2023/05/22 (Mon) 16:02: User028 requested information about restaurants in Tokyo that have English menus or at least pictures, as they do not read Japanese. They were looking for specific recommendations to ease their dining experience.
+
+Mentioned at 2023/05/22 (Mon) 16:02: User028 is staying in the Shimokitazawa area and asked for recommendations on restaurants nearby that have English menus or pictures, seeking convenient dining options close to their accommodation.
+
+Mentioned at 2023/05/22 (Mon) 16:02: User028 expressed interest in finding a local grocery store in Shimokitazawa to pick up snacks and drinks for their apartment. They inquired about grocery stores that cater to foreigners or have English labels.
+
+Mentioned at 2023/05/22 (Mon) 16:02: User028 showed curiosity about exploring Shimokitazawa and asked for recommendations on must-visit places or hidden gems in the neighborhood that would provide a deeper experience of local culture.
+
+Mentioned at 2023/05/22 (Mon) 16:02: User028 expressed interest in learning more about Japanese culture and customs. They sought recommendations for resources or activities that would help them better understand the culture and traditions of Japan.
+
+Mentioned at 2023/05/23 (Tue) 04:10: User028 expressed interest in trying out new vegan recipes, specifically asking for recommendations for creamy sauces or soups that use oat milk. They mentioned experimenting with different types of plant-based milk alternatives and shared that they had made vegan mac and cheese using a cashew-based cheese sauce the previous week, which "turned out really well."
+
+Mentioned at 2023/05/23 (Tue) 04:10: User028 decided to try the Creamy Tomato Sauce and inquired about suitable pasta pairings. They chose penne as their preferred pasta shape, believing it would be a good match for the sauce.
+
+Mentioned at 2023/05/23 (Tue) 04:10: User028 selected roasted cherry tomatoes and zucchini to accompany the creamy tomato sauce and penne, appreciating the idea of adding a "sweet and tangy contrast" to the savory sauce.
+
+Mentioned at 2023/05/23 (Tue) 04:10: User028 sought advice on how to make the sauce thicker and creamier, opting to add a roux for this purpose. They expressed an intention to make a blond roux, believing that the "lightly golden color and nutty aroma" would complement the flavors of the sauce nicely. User028 also planned to add sautéed garlic and onion to the fat before incorporating the flour for extra flavor.
+
+Mentioned at 2023/05/23 (Tue) 10:13: User028 expressed interest in zero-waste living after meeting someone who introduced them to the concept. They are looking for resources and tips to get started on this lifestyle change.
+
+Mentioned at 2023/05/23 (Tue) 10:13: User028 participated in a Bike-a-Thon for Cancer Research, where their team raised $5,000. They described the experience as "amazing" and sought tips on staying motivated to continue volunteering and making a difference in the community.
+
+Mentioned at 2023/05/23 (Tue) 10:13: User028 is considering organizing a charity event, potentially a charity run or fundraising dinner, and requested advice on how to get started with the planning process.
+
+Mentioned at 2023/05/23 (Tue) 10:13: User028 plans to research charities focusing on education and children's welfare as potential beneficiaries for their upcoming event. They also intend to brainstorm ideas for creating a compelling event concept that will attract attendees and sponsors.
+
+Mentioned at 2023/05/23 (Tue) 01:53: user028 is planning to buy pasta for the week and is looking for new coupons for pasta products. They mentioned using a 10% off coupon on the 15th, which was helpful in saving money. user028 received the 10% off coupon in the mail from their favorite grocery store, specifically for all pasta products. 
+
+Mentioned at 2023/05/23 (Tue) 01:53: user028 expressed interest in finding similar coupons for other grocery items, such as coffee creamer and skincare products. They had good experiences with coffee creamer coupons in the past, noting a $2 off coupon used on the 5th.
+
+Mentioned at 2023/05/23 (Tue) 01:53: user028 is interested in finding coupons for beauty products, having used a 20% off coupon on the 19th that saved them a good amount of money. 
+
+Mentioned at 2023/05/23 (Tue) 01:53: user028 is looking for coupons for meal kit delivery services, hoping to find similar coupons to the 10% off coupon they used on the 15th when buying pasta. They are interested in finding specific meal kit brands that may offer similar discounts.
+
+Mentioned at 2023/05/23 (Tue) 14:11: User028 expressed a desire for recommendations on inclusive fashion brands, noting their experimentation with different pronouns and a growing interest in gender-neutral clothing. They asked for suggestions that would align with their evolving identity.
+
+Mentioned at 2023/05/23 (Tue) 14:11: User028 showed interest in learning more about dapperQ and The Phluid Project, inquiring about their design aesthetics and typical clothing items. They appreciated the stylish and inclusive offerings of these brands.
+
+Mentioned at 2023/05/23 (Tue) 14:11: User028 indicated a specific interest in androgynous accessories, particularly hats and scarves, and sought recommendations that would complement their personal style. They were particularly drawn to the idea of a fedora and a plaid scarf.
+
+Mentioned at 2023/05/23 (Tue) 14:11: User028 considered the suitability of a fedora for their round face shape and sought advice on the best plaid pattern for a scarf. They expressed excitement about experimenting with these accessories.
+
+Mentioned at 2023/05/23 (Tue) 14:11: User028 shared that they have been experimenting with different pronouns and are starting to get a better sense of their gender identity. They noted that exploring their style and fashion preferences has been helpful in this journey.
+
+Mentioned at 2023/05/23 (Tue) 14:11: User028 decided to check out online resources and communities focused on non-binary fashion and identity. They acknowledged that seeing people who look like them and share similar experiences can be beneficial for feeling more confident and seen.
+
+Mentioned at 2023/05/23 (Tue) 16:52: user028 brainstormed a comprehensive leave management system, discussing various features that should be included. These features encompass a leave request and approval process, leave tracking, leave policies, different types of leave, notifications, a leave calendar, reporting capabilities, integration with payroll, and mobile access.
+
+Mentioned at 2023/05/23 (Tue) 16:52: user028 continued to expand on the leave management system, suggesting additional features such as a self-service portal for employees, leave tracking for part-time employees, leave accrual tracking, maintaining a leave history, creating approval workflows, flexible leave policies, leave forecasting, and ensuring compliance with relevant laws and regulations.
+
+Mentioned at 2023/05/23 (Tue) 16:52: user028 proposed further enhancements to the leave management system, including integration with other HR systems, custom leave categories, leave request templates, deadlines for leave requests, routing of leave requests, escalation processes for unapproved requests, maintaining a history of leave requests, and analytics capabilities to track trends in leave usage.
+
+Mentioned at 2023/05/23 (Tue) 16:52: user028 elaborated on additional features for the leave management system, suggesting functionalities such as leave request approvals by proxy, specifying dependencies for leave requests, alerts for scheduling conflicts, adding notes and attachments to requests, sending reminders about upcoming leave, allowing cancellation of requests, rollover of unused leave, and transfer of leave between employees.
+
+Mentioned at 2023/05/23 (Tue) 16:52: user028 continued to detail more features for the leave management system, including forward planning for future leave requests, handling emergency leave requests, requesting leave for medical appointments, jury duty, bereavement, military duty, voting, union activities, and public service.
+
+Mentioned at 2023/05/23 (Tue) 16:52: user028 suggested further features for the leave management system, such as allowing leave requests for training, relocation, special occasions, personal days, company-observed holidays, sabbaticals, phased returns, remote work, and flexible work arrangements.
+
+Mentioned at 2023/05/23 (Tue) 16:52: user028 proposed additional leave request types for the system, including parental leave, caregiving leave, family leave, adoption leave, surrogacy leave, fertility treatment leave, donor leave, and organ transplant leave. user028 emphasized the need for the system to track the length of each leave and any associated pay for these types of leave, ensuring that all leave requests related to family members are adequately managed.
+
+Mentioned at 2023/05/23 (Tue) 20:22: user028 expressed interest in playing Forbidden Island with friends and family this weekend, believing it to be a great introduction to cooperative games and appreciating the treasure-hunting theme.
+
+Mentioned at 2023/05/23 (Tue) 20:22: user028 considered playing with 4 players but was unsure if it would be better with 2-3 players. They noted that playing with 2 players allows for more control and easier coordination, while 3 players strikes a balance between control and teamwork. They acknowledged that 4 players would create a more chaotic experience, requiring more communication and teamwork.
+
+Mentioned at 2023/05/24 (Wed) 10:38: User028 participated in a Twitter chat about reducing plastic waste last week. They found the chat informative and learned about the impact of plastic waste on the environment, as well as practical tips for reduction. User028 expressed eagerness to learn more about the topic, highlighting their commitment to making a difference.
+
+Mentioned at 2023/05/24 (Wed) 10:38: User028 expressed a strong interest in reducing single-use plastics in their daily life and decided to start with that focus. They inquired about finding eco-friendly alternatives to common single-use plastics like straws, bags, and water bottles.
+
+Mentioned at 2023/05/24 (Wed) 10:38: User028 showed enthusiasm for trying out metal straws and asked about their ease of cleaning and any specific cleaning products that should be used.
+
+Mentioned at 2023/05/24 (Wed) 10:38: User028 sought tips on properly disposing of plastic waste, emphasizing their efforts to reduce single-use plastics. They requested guidance on recycling and responsible disposal methods for plastic waste.
+
+Mentioned at 2023/05/24 (Wed) 19:25: user028 is working on helping first-year college students develop a one-year SMART plan that aligns with their career goals. They are considering an exercise that involves guiding students through the SMART goal-setting framework, which includes steps such as defining specific career aspirations, refining those goals using SMART criteria, assessing feasibility, setting timelines, and tracking progress.
+
+Mentioned at 2023/05/24 (Wed) 19:25: user028 created a four-column table outlining a one-year SMART plan for a college student. The plan includes goals such as securing an internship, improving public speaking skills, building a professional network, and gaining leadership experience. Each goal is broken down into specifics, metrics for measuring progress, and timelines for completion.
+
+Mentioned at 2023/05/24 (Wed) 19:25: user028 developed a one-year action plan divided into four segments. The plan starts in the spring semester and includes specific actions to be taken while the student is taking a full load of 15-18 credits. The first segment focuses on researching companies, attending workshops, and joining student organizations, while subsequent segments involve applying for internships, delivering presentations, and networking.
+
+Mentioned at 2023/05/24 (Wed) 19:25: user028 adjusted the action plan to start in the spring semester, indicating that the student would be taking a full load of credits during both the spring and fall semesters. The plan outlines specific activities for each segment, including securing an internship during the summer when the student may not have classes or may only take part-time classes.
+
+Mentioned at 2023/05/24 (Wed) 20:15: User028 expressed fascination with how snakes adapt to their environments, specifically asking about snake camouflage and mimicry. They learned that snakes utilize these adaptations to hide from predators, blend in with prey, and attract mates. User028 found it interesting that camouflage helps snakes match their surroundings, while mimicry allows some harmless snakes to imitate venomous species for protection.
+
+Mentioned at 2023/05/24 (Wed) 20:15: User028 requested examples of snake mimicry and learned about several species, including the coral snake and the scarlet kingsnake, which mimic each other for protective purposes. They also discovered that vine snakes resemble their environment, while hognose snakes play dead to avoid predation.
+
+Mentioned at 2023/05/24 (Wed) 20:15: User028 inquired about other interesting adaptations in snakes and was informed about heat-sensing pits in pit vipers, the flexibility of snake jaws, the shedding of skin, and the longevity of certain species like the boa constrictor. 
+
+Mentioned at 2023/05/24 (Wed) 20:15: User028 asked about snake predators and learned that snakes face threats from birds, larger animals, and even other snakes. They were informed about various defensive adaptations, including venom, camouflage, and behaviors like playing dead.
+
+Mentioned at 2023/05/24 (Wed) 20:15: User028 sought fun facts about snakes and learned that most snakes are non-venomous, have good vision, can detect prey through heat sensors, and possess unique modes of movement. They were surprised to learn about the gliding capabilities of certain snake species.
+
+Mentioned at 2023/05/24 (Wed) 20:15: User028 expressed curiosity about the concept of flying snakes and was corrected that snakes glide rather than fly. They learned about the paradise tree snake, which can glide distances of up to 100 meters by flattening its body and using its belly scales for propulsion.
+
+Mentioned at 2023/05/25 (Thu) 09:04: user028 expressed interest in enhancing their dining area by considering the installation of string lights or fairy lights to create a more intimate atmosphere for dinner parties. They sought recommendations for styles or designs suitable for a medium-sized room.
+
+Mentioned at 2023/05/25 (Thu) 09:04: user028 liked the ideas of warm white fairy lights and café-style string lights and asked for suggestions on how to hang them to achieve a balanced look without clutter. They inquired about using adhesive hooks or small nails for hanging the lights.
+
+Mentioned at 2023/05/25 (Thu) 09:04: user028 decided to hang the fairy lights in a swagging pattern along the walls, starting from the center point and working outward. They planned to vary the height of the lights to add visual interest and keep the cord loose for a relaxed look.
+
+Mentioned at 2023/05/25 (Thu) 09:04: user028 planned to add eucalyptus to the walls using a trellis or wall planter to keep it tidy. They intended to weave the fairy lights through the eucalyptus to create a whimsical look, considering the addition of greenery to enhance the space.
+
+Mentioned at 2023/05/25 (Thu) 09:04: user028 considered adding candles or lanterns to the tables or shelves to enhance warmth and ambiance in the space, seeking confirmation on whether this would be a good idea.
+
+Mentioned at 2023/05/25 (Thu) 13:38: user028 expressed a desire to transition into a SaaS Sales Development Representative (SDR) position for tech companies. They sought advice on how to showcase their current job as a warehouse inventory associate, along with their training in quality assurance software testing and knowledge of digital marketing, to convey their suitability for the SDR role.
+
+Mentioned at 2023/05/25 (Thu) 13:38: user028 requested assistance in revising their LinkedIn tagline to reflect their new interest in tech sales for a SaaS company. They proposed a new tagline: "Sharp SDR | Leveraging digital channels to generate leads, build relationships, and drive revenue growth for SaaS companies."
+
+Mentioned at 2023/05/25 (Thu) 13:38: user028 sought help in rewriting their LinkedIn description to showcase their desire to enter the tech sales industry as an SDR for a SaaS company. They provided a previous description that highlighted their background in digital marketing and quality assurance, expressing excitement about transitioning into tech sales.
+
+Mentioned at 2023/05/25 (Thu) 13:38: user028 requested a 30-day study plan to learn tech sales and become an SDR or BDR. They aimed to gain knowledge about the industry, sales techniques, and effective communication strategies to prepare for their career transition.
+
+Mentioned at 2023/05/25 (Thu) 13:38: user028 expressed love for AI and appreciation for the assistance provided in rewriting their LinkedIn description, stating, "This was beautifully written. Thanks."
+
+Mentioned at 2023/05/25 (Thu) 16:44: User028 is looking for advice on choosing the right fishing lure for their next trip, considering trying out fly fishing but unsure about the type of flies to use. They mentioned having success with spinner baits in the past, specifically a silver one their dad got them, which caught a huge trout measuring 22 inches in length.
+
+Mentioned at 2023/05/25 (Thu) 16:44: User028 is planning to go to Lake Michigan again to target trout. They noted that the water is usually calm and that it is spring, expressing uncertainty about what to expect in terms of hatches and fish behavior.
+
+Mentioned at 2023/05/25 (Thu) 16:44: User028 is considering trying out a smaller Woolly Bugger, around 2-3 inches in length, with a natural color like white or silver. They mentioned that smaller streamers can be more effective in the spring when the water is still a bit chilly.
+
+Mentioned at 2023/05/25 (Thu) 16:44: User028 is thinking of trying out a few different retrieval speeds and actions to see what the trout respond to. They have heard that a "strip-set" technique, which involves quickly stripping in the line to imitate a fleeing baitfish, can be effective for streamers and are considering using it for Lake Michigan trout in the spring.
+
+Mentioned at 2023/05/25 (Thu) 15:20: User028 is planning a practice session with their friend Mike this weekend at the autoshop, aiming to improve their racing skills and shave off some seconds from their previous time. They expressed interest in recording the practice session to analyze their techniques and identify areas for improvement, recognizing that this could help them refine their skills.
+
+Mentioned at 2023/05/25 (Thu) 15:20: User028 recalled participating in the "Rack Wars" auto racking competition on April 15th at the San Bernardino Fairgrounds, describing it as a fun event. They considered focusing on improving their tire management during the upcoming practice session with Mike, acknowledging its importance in racing.
+
+Mentioned at 2023/05/25 (Thu) 15:20: User028 asked for tips on improving brake and throttle control during tight turns, indicating a desire to enhance their skills in this area. They received advice on techniques such as gradual braking, trail braking, and smooth throttle application to maintain control during tight turns.
+
+Mentioned at 2023/05/25 (Thu) 15:20: User028 mentioned watching YouTube videos of pro racing events and noted that they observed "super smooth transitions between turns." They sought tips on improving their transition speed and maintaining momentum through the course, emphasizing the importance of looking ahead, making smooth inputs, and refining throttle and brake control.
+
+Mentioned at 2023/05/26 (Fri) 08:19: User028 is looking for inspiration for a new embroidery project and has recently acquired a set of metallic threads. They are excited to try them out and are motivated to tackle new projects after getting their sewing machine serviced, which is now "working like new again."
+
+Mentioned at 2023/05/26 (Fri) 08:19: User028 plans to start with a celestial stars pattern for their embroidery project and is seeking tips on choosing the right fabric to pair with metallic threads. They are considering using white cotton lawn for this project.
+
+Mentioned at 2023/05/26 (Fri) 08:19: User028 is planning to make a few new clothes for themselves, including a sundress and a pair of linen pants. They are looking for tips on how to choose the right fabric for garment sewing, particularly with lightweight fabrics like linen.
+
+Mentioned at 2023/05/26 (Fri) 08:19: User028 is considering using a natural-colored linen for their sundress and is contemplating adding some embroidery or appliqué to the fabric before sewing the dress together. They are interested in keeping the design subtle to not overpower the natural beauty of the linen.
+
+Mentioned at 2023/05/26 (Fri) 08:19: User028 is thinking of a simple embroidery design featuring small stars or leaves around the hem of the dress. They believe this would work well to maintain a subtle aesthetic while enhancing the garment.
+
+Mentioned at 2023/05/26 (Fri) 16:43: user028 discussed the impact of American Idol on contestants' careers with a focus on how the show affected their trajectories post-show. They noted that while successful contestants often struggled to establish their identity, those who did not advance far had more freedom to develop their careers without being tied to the show's brand. user028 reflected on Kara DioGuardi's perspective that the show's emphasis on having a "big moment" each week sometimes prioritized showmanship over sustainable career development.
+
+Mentioned at 2023/05/26 (Fri) 16:43: user028 expressed their concern about the struggles contestants face after American Idol and wondered if the show could have done more to support them post-competition. They suggested that the series could invest in ongoing mentorship, resources, and industry connections for winners and finalists, and debated whether American Idol could better promote its alumnae to maintain interest in their careers.
+
+Mentioned at 2023/05/26 (Fri) 16:43: user028 pondered whether other singing competitions, like The Voice and America's Got Talent, are more effective at supporting their winners and finalists. They acknowledged that while some contestants from these shows have achieved success, others have faced challenges in the music industry, which is known for being difficult to navigate.
+
+Mentioned at 2023/05/26 (Fri) 16:43: user028 reflected on the role of social media in the music industry, considering its dual impact on singers' visibility. They noted that platforms like YouTube, Instagram, TikTok, and SoundCloud have made it easier for aspiring artists to gain exposure, but also acknowledged the challenges of standing out in a crowded market and the potential negative effects of social media algorithms on artists' reach.
+
+Mentioned at 2023/05/26 (Fri) 10:40: User028 is planning a trip to the mountains for deer hunting and is considering bringing his dog, Max, with him. He recently returned from a hunting trip with his dad to their family's cabin in the mountains, where they had a great time despite not getting any deer.
+
+Mentioned at 2023/05/26 (Fri) 10:40: User028 is planning to visit the same mountain range where their family's cabin is, aiming for mid-October. They are looking for public land to hunt whitetail deer and have their own gear, but would appreciate decent campsites nearby.
+
+Mentioned at 2023/05/26 (Fri) 10:40: User028 is considering bringing the rifle scope he used on his previous hunting trip with his dad. He recalls trying out a new rifle scope that "had great magnification but was a bit tricky to adjust," prompting him to evaluate whether it will be suitable for the upcoming hunting trip or if he should consider a different one. He is weighing the scope's adjustment difficulties against its benefits for the trip.
+
+Mentioned at 2023/05/26 (Fri) 21:54: User028 is planning to work on a project that involves managing multiple tasks and deadlines. They recently attended a 3-day project management workshop last month and earned 21 professional development units (PDUs) for attending, expressing excitement to apply what they learned.
+
+Mentioned at 2023/05/26 (Fri) 21:54: User028 is particularly interested in Asana and Trello for project management and requested a brief comparison between the two tools, considering their features, pricing, and user interface.
+
+Mentioned at 2023/05/26 (Fri) 21:54: User028 expressed curiosity about Asana's workflow feature, wanting to learn how it can help create custom workflows with dependencies and approvals.
+
+Mentioned at 2023/05/26 (Fri) 21:54: User028 inquired about Asana's integrations with other tools and services, emphasizing the importance of seamless integration with the various apps and services they use in their workflow.
+
+Mentioned at 2023/05/26 (Fri) 21:54: User028 showed eagerness to explore Asana's reporting features, seeking information on how to track progress and identify areas for improvement using these features.
+
+Mentioned at 2023/05/26 (Fri) 21:54: User028 expressed interest in learning more about Asana's custom fields feature, specifically how to use custom fields to track additional data and their application in reports.
+
+Mentioned at 2023/05/27 (Sat) 20:51: User028 is looking to book a tennis court at the local community center for Saturday, having enjoyed playing with their colleague Rachel there last weekend. They want to get more practice in and are considering confirming Rachel's availability after securing a time slot.
+
+Mentioned at 2023/05/27 (Sat) 20:51: User028 plans to book the court for 10 am and has been focusing on improving their volleys during practice sessions. They mentioned that they usually do a warm-up before playing, as it is part of their routine.
+
+Mentioned at 2023/05/27 (Sat) 20:51: User028 has been practicing forehand volley drills, where their partner hits a forehand for them to volley back. They have found that this drill helps develop their reaction time and hand-eye coordination. User028 is also working on keeping their racquet in front of the ball and using a lighter grip pressure for better precision and consistency.
+
+Mentioned at 2023/05/27 (Sat) 20:51: User028 has been participating in a doubles tournament at the club recently, where they made it to the semi-finals. They are planning to play in another tournament next month and are trying to get as much practice in as possible to prepare for it.
+
+Mentioned at 2023/05/27 (Sat) 01:14: User028 expressed a need for help organizing their closet and requested suggestions for categorizing and storing clothes. They mentioned being really into their new red sweater, stating, "I've worn it 7 times since I got it three weeks ago," highlighting its status as a staple in their wardrobe.
+
+Mentioned at 2023/05/27 (Sat) 01:14: User028 decided that the category-based organization method sounded like a good starting point for their closet organization. They sought advice on how to determine what to keep and what to donate or sell during the purging process.
+
+Mentioned at 2023/05/27 (Sat) 01:14: User028 shared feelings of being overwhelmed but indicated readiness to start the purging process. They mentioned considering getting their favorite distressed denim jeans hemmed because they were "a bit too long and keep dragging on the floor," and asked for tips on how to care for them to ensure longevity.
+
+Mentioned at 2023/05/27 (Sat) 01:14: User028 expressed that they were feeling better about starting the purging process and mentioned plans to donate some items to local charity shops or sell them online. They also expressed interest in investing in a new coat for the upcoming winter season and requested advice on features to look for when buying a coat.
+
+Mentioned at 2023/05/27 (Sat) 01:14: User028 indicated a preference for classic and timeless styles while appreciating a bit of trendiness. They mentioned eyeing a parka from The North Face but were hesitant due to its price, suggesting they might wait for a sale. They reiterated their fondness for their red sweater, stating they would look for a coat that complements it well.
+
+Mentioned at 2023/05/28 (Sun) 03:04: user028 is planning a day out with their sister, who is visiting soon. They are looking for art museums in their city to visit together and expressed that they are open to all types of art. user028 mentioned that their sister is a big fan of Monet's Water Lilies series, indicating a specific interest in Impressionist art.
+
+Mentioned at 2023/05/28 (Sun) 03:04: user028 recalled visiting the City Art Museum on Saturday, March 12th, with their friend Rachel. During this visit, they spent about 2.5 hours exploring an amazing Impressionist exhibit, which included Monet's Water Lilies series. This experience highlights user028's appreciation for Impressionist art and their interest in finding similar exhibits.
+
+Mentioned at 2023/05/28 (Sun) 03:04: user028 expressed a desire to find other museums in their area that might have similar exhibits or artists, seeking suggestions for art museums that feature Impressionist art. They acknowledged the need to provide more specific information about their city to receive tailored recommendations, indicating their willingness to assist in clarifying their location for better suggestions.
+
+Mentioned at 2023/05/27 (Sat) 20:59: User028 has been considering getting a new coffee table for their living room and is looking for options similar to the reclaimed wood table from West Elm.
+
+Mentioned at 2023/05/27 (Sat) 20:59: User028 is also thinking about getting a rug for their dining room and is seeking suggestions that would complement their dining table and chairs. They plan to provide more details about their dining set, including the style, shape, size, and color scheme, to receive personalized recommendations.
+
+Mentioned at 2023/05/27 (Sat) 20:59: User028 recently assembled a bookshelf that took about 4 hours to put together. They reflected on the experience, expressing a sense of accomplishment and curiosity about the challenges faced during assembly, such as whether the design was complex or if the instructions were unclear.
+
+Mentioned at 2023/05/27 (Sat) 20:59: User028 is planning to tackle a wobbly kitchen island this weekend and is seeking tips for tightening loose screws and stabilizing the island.
+
+Mentioned at 2023/05/27 (Sat) 20:59: User028 has been using their exercise bike regularly, aiming to ride it for at least 30 minutes, three times a week, and is looking for suggestions for new workout playlists or cycling routes to keep their routines interesting.
+
+Mentioned at 2023/05/27 (Sat) 20:59: User028 has been thinking about organizing their garage since getting rid of their old sofa bed and is seeking tips for maximizing storage space and keeping clutter at bay.
+
+Mentioned at 2023/05/28 (Sun) 16:57: user028 expressed interest in writing their own book instead of opting for a ghostwriter or AI creation. They considered several reasons for this choice, including the potential for personal fulfillment, ownership and control over the content, and the authenticity that comes from writing their own story. user028 noted that writing their own book could lead to improved writing skills and the opportunity to form an emotional connection with readers, emphasizing that a book authored by them would be a true representation of who they are.
+
+Mentioned at 2023/05/28 (Sun) 07:09: User028 shared their journey into real estate investing, which began by accident after a friend introduced them to the idea of using money from their 401K to purchase a property. This initial investment led to the ability to borrow money from the rental property using an equity line of credit, enabling user028 to acquire a second and third property. Over three years, they successfully built a portfolio of 14 doors and close to a million dollars.
+
+Mentioned at 2023/05/28 (Sun) 07:09: User028 was introduced to hotel investing after enrolling in a mastermind course with Davonne Reaves, which opened up new opportunities in the investment world. They expressed excitement about being part of the Nassau Mastermind, stating that it is expanding their perspective on what is possible in hotel and multi-family investing.
+
+Mentioned at 2023/05/28 (Sun) 07:09: User028 emphasized the transformative power of real estate investing, stating, "It changed my life and it can change yours too," and invited others interested in passive investing to reach out, highlighting their willingness to engage with potential investors.
+
+Mentioned at 2023/05/28 (Sun) 07:09: User028 announced their upcoming B.O.S.S. Life Design program, aimed at helping high-achieving women of color manage stress and create a balanced life. They highlighted the program's focus on personal development and community support, encouraging participants to embrace their inner B.O.S.S. and turn the page towards a life of holistic well-being.
+
+Mentioned at 2023/05/28 (Sun) 07:09: User028 expressed the importance of self-education in building wealth, quoting Jim Rohn: "Formal education will make you a living, self-education will make you a fortune," underscoring the value of continuous learning in achieving financial success.
+
+Mentioned at 2023/05/28 (Sun) 07:09: User028 prepared a live script on imposter syndrome, discussing its prevalence and impact, and offering strategies for overcoming these feelings, such as seeking support and reframing negative thoughts.
+
+Mentioned at 2023/05/28 (Sun) 17:23: User028 inquired about the positive effects of outdoor activities or exposure to nature on vision and eye health, showing interest in how these activities could benefit their well-being. User028 specifically asked if activities like hiking and camping would be better for eye health compared to indoor exercises, reflecting curiosity about the comparative benefits of outdoor versus indoor activities.
+
+Mentioned at 2023/05/28 (Sun) 17:23: User028 expressed a love for hiking and being outdoors, feeling glad to learn that these activities could positively impact their eye health. They requested tips on protecting their eyes from UV rays while hiking or camping, demonstrating a proactive approach to maintaining eye health during outdoor activities.
+
+Mentioned at 2023/05/28 (Sun) 17:23: User028 committed to wearing UV-protecting sunglasses and a hat on their next hiking trip, indicating intent to implement the advice provided for eye protection. They also sought additional suggestions for staying cool and protecting their eyes while hiking in the sun, reflecting thoughtful consideration of their hiking experience.
+
+Mentioned at 2023/05/28 (Sun) 17:23: User028 planned to bring a cooling towel and stay hydrated during their next hike, showing a commitment to health and comfort while enjoying outdoor activities. They also asked for recommendations for light-colored clothing brands that are moisture-wicking, demonstrating an interest in appropriate gear for hiking and sun protection.
+
+Mentioned at 2023/05/28 (Sun) 17:23: User028 expressed excitement about enjoying the outdoors while keeping their eyes healthy, emphasizing their enthusiasm for hiking and outdoor activities.
+
+Mentioned at 2023/05/28 (Sun) 19:29: User028 explored several interesting questions related to business data on Yelp. They proposed analyzing the average rating of open versus closed businesses, suggesting that a bar chart or box plot could be used to compare these ratings. User028 also considered investigating how the number of reviews received by businesses varies by city, recommending a map visualization with cities color-coded by the number of reviews.
+
+Mentioned at 2023/05/28 (Sun) 19:29: User028 expressed interest in examining the most common categories of businesses on Yelp, proposing the use of a bar chart or pie chart to display the percentage of businesses in each category. They also highlighted the need to analyze how the number of reviews received by businesses varies by day of the week, suggesting a line chart for this visualization.
+
+Mentioned at 2023/05/28 (Sun) 19:29: User028 identified the importance of exploring the most common attributes of businesses on Yelp, such as parking and suitability for groups, and recommended using a bar chart or pie chart for this analysis. They mentioned the distribution of prices among different businesses, proposing a box plot to illustrate the price ranges for various types of businesses.
+
+Mentioned at 2023/05/28 (Sun) 19:29: User028 highlighted the significance of understanding how the number of reviews varies by state, suggesting a map visualization for this purpose. They also proposed investigating potential correlations between the number of reviews a business receives and other variables like rating or price, recommending a scatter plot to explore this relationship.
+
+Mentioned at 2023/05/28 (Sun) 19:29: User028 requested a code template for the visualizations they discussed, asking, "Could you provide a code template for the above visualizations?" In response, they expressed that they were unable to provide a code template, stating that it depends on the programming language and library being used, but offered general information on how to create the visualizations.
+
+Mentioned at 2023/05/28 (Sun) 22:56: User028 is planning a trip to Japan and is seeking recommendations for must-visit places in Tokyo. They recently posted about their last visit to Tsukiji Fish Market on Instagram, which received 42 views, indicating its popularity.
+
+Mentioned at 2023/05/28 (Sun) 22:56: User028 is considering visiting Tokyo Tower during their trip, as they took a great photo of it during their last visit that garnered significant engagement on Instagram. They are looking for tips on the best time of day to visit the tower for optimal views.
+
+Mentioned at 2023/05/28 (Sun) 22:56: User028 is interested in trying sushi while in Tokyo and is asking for recommendations for good sushi restaurants near Tokyo Tower. They noted that their Instagram post about trying sushi for the first time received 57 likes and 12 comments, suggesting a strong interest in sushi.
+
+Mentioned at 2023/05/28 (Sun) 22:56: User028 is inquiring about the best way to get to Tokyo Tower from their hotel in the Shibuya area, indicating their plans to visit the iconic landmark during their stay.
+
+Mentioned at 2023/05/28 (Sun) 22:56: User028 is also curious about how to get to Tsukiji Fish Market from Shibuya, specifically mentioning their intention to visit the outer market rather than the inner market at Toyosu.
+
+Mentioned at 2023/05/29 (Mon) 04:50: User028 has started reaching out to professors from UCLA to request letters of recommendation for the Master's program in Data Science at Stanford. They are also working on their personal statement and have completed around five drafts but are still not satisfied with it.
+
+Mentioned at 2023/05/29 (Mon) 04:50: User028 completed their undergraduate degree in Computer Science from UCLA, which has a great reputation in the industry.
+
+Mentioned at 2023/05/29 (Mon) 04:50: User028 plans to revise their personal statement to make it more concise and focused. They intend to incorporate more specific examples and anecdotes to better demonstrate their passions and motivations for pursuing data science.
+
+Mentioned at 2023/05/29 (Mon) 04:50: User028 is leaning towards Stanford for their Master's degree but is concerned about the cost. They inquired about the average salary of a software engineer in San Francisco and whether any of the programs offer scholarships or assistantships.
+
+Mentioned at 2023/05/29 (Mon) 04:50: User028 learned that the average salary for a software engineer in San Francisco is around $144,000 - $164,000 per year, with ranges varying based on experience and specific roles. They also discovered that all three programs—Stanford, Berkeley, and Carnegie Mellon—offer various forms of financial aid, including scholarships and assistantships.
+
+Mentioned at 2023/05/29 (Mon) 06:24: User028 engaged in a game of Wordle, explaining the rules and the feedback system involving letters marked as X, O, and V. They initiated the game with the first guess of "apple," which received feedback of XXXOV, indicating that the first three letters were incorrect, while the fourth letter was correct but in the wrong position, and the fifth letter was correct and in the right position.
+
+Mentioned at 2023/05/29 (Mon) 06:24: Following the initial guess, user028 made a second guess of "zebra," which resulted in feedback of XVXXX. This indicated that the first letter was correct but in the wrong position, while the remaining letters were incorrect. User028 then guessed "elbow" as the third attempt, receiving feedback of OVXOX, which confirmed that the second letter was correct and in the right position, while the fourth letter was incorrect.
+
+Mentioned at 2023/05/29 (Mon) 06:24: User028 proceeded with the fourth guess of "below," which received feedback of XOOOX, indicating that the first letter was incorrect and the second, third, and last letters were correct but in the wrong positions. They then guessed "globe" as the fifth attempt, receiving feedback of VVVXV, confirming that the first three letters and the last letter were correct, while the fourth letter was incorrect.
+
+Mentioned at 2023/05/29 (Mon) 06:24: User028 expressed confusion regarding their final guess, initially suggesting "globs" but later realizing the mistake. They acknowledged the feedback and attempted to correct their guess by suggesting "gloze," which was noted as an uncommon word. However, user028 recognized that "gloze" was not the best choice and proposed "glory," but this guess disregarded the correct placement of the last letter. After several corrections, user028 finally settled on "glade" as a more appropriate sixth guess, ensuring that the first three letters were GLO and the last letter was E.
+
+Mentioned at 2023/05/29 (Mon) 06:24: Throughout the game, user028 demonstrated a methodical approach to refining their guesses based on the feedback received after each attempt. They consistently aimed to maintain the correct letters in their respective positions while adjusting the incorrect ones, showcasing their understanding of the game's mechanics. User028's persistence in correcting their guesses highlighted their commitment to solving the puzzle accurately.
+
+Mentioned at 2023/05/29 (Mon) 09:27: user028 was thinking of setting up a new phone case and screen protector for their new phone and asked for recommendations on good brands and options. They mentioned that they were able to offset the cost of the new phone by selling their old iPhone 11 to a friend for $400, noting that the sale was straightforward with no specific strategies or platforms involved.
+
+Mentioned at 2023/05/29 (Mon) 09:27: user028 expressed interest in the Defender Series from OtterBox for their new phone, seeking extra protection against drops and scratches. They confirmed the decision to purchase the Defender Series case, emphasizing the importance of having that extra protection.
+
+Mentioned at 2023/05/29 (Mon) 09:27: user028 was considering getting a screen protector and a wireless charging pad to go along with their new phone. They heard great things about wireless charging and found it to be convenient. They decided to go with the Anker Wireless Charger after hearing positive feedback about Anker's products and recognizing it as a great value for the price.
+
+Mentioned at 2023/05/29 (Mon) 11:05: user028 is trying to plan out their day for the following day and inquired about the weather forecast for the next 24 hours. They also asked for recommendations on calming music or nature sounds to help them wind down before bed.
+
+Mentioned at 2023/05/29 (Mon) 11:05: user028 has started doing light stretching and yoga poses before bed, finding it helpful in relaxing muscles and preparing for sleep. They have also made a conscious effort to avoid checking work emails or messages after 9 PM to reduce stress.
+
+Mentioned at 2023/05/29 (Mon) 11:05: user028 is trying to establish a consistent sleep schedule, aiming for 7-8 hours of sleep each night. They are considering setting their alarm clock 15 minutes earlier each day, starting from Sundays, to gradually get back into their routine.
+
+Mentioned at 2023/05/29 (Mon) 11:05: user028 expressed interest in trying out calming music and nature sounds to help with relaxation before bed. They noted that they have been tracking their sleep patterns and observed more restless nights during full moons, although they acknowledged the lack of scientific basis for this observation.
+
+Mentioned at 2023/05/29 (Mon) 19:10: User028 interviewed Tommy for a position and inquired about the salary he needed. Following the interview, user028 emailed Tommy an offer letter that aligned with his salary expectations. Tommy responded to the email expressing concerns, stating, "this offer would be a step back for me from my current employment," and inquired if UNG could increase the salary.
+
+Mentioned at 2023/05/29 (Mon) 19:10: User028 composed a reply to Tommy, explaining that UNG believes the offered salary is appropriate given Tommy's experience and knowledge. User028 noted that they are unable to increase the salary and highlighted that Tommy currently works for the state at a school district, where he receives "more PTO and better insurance benefits." User028 clarified that UNG cannot compete with the state regarding these benefits and expressed hope that Tommy would still consider the opportunity.
+
+Mentioned at 2023/05/29 (Mon) 14:33: User028 expressed their fears of failing, not being good enough, and not living up to their expectations. They noted that these fears almost held them back from completing a 3D motion design video that they were working on as part of a course in 2020. This emotional struggle highlighted the impact of their fears on their creative journey.
+
+Mentioned at 2023/05/29 (Mon) 14:33: User028 acknowledged that their journey in 3D motion design is not always easy and that they are not perfect in this approach. They shared that their experience as a product manager has instilled in them the value of hard work and a willingness to learn from mistakes, which have helped them overcome their fears and continue pursuing their dreams.
+
+Mentioned at 2023/05/29 (Mon) 14:33: User028 detailed the skills they acquired during the course, which included coming up with ideas, creating mood boards, blocking, lighting, and working with materials and compositing. They described the learning process as challenging but expressed gratitude for the opportunity to learn and grow.
+
+Mentioned at 2023/05/29 (Mon) 14:33: User028 conveyed their commitment to continuing their journey in 3D motion design, acknowledging that they still have much to learn and explore. They expressed excitement about the challenges ahead and the potential for growth, stating, "I'm excited to see the point I will come."
+
+Mentioned at 2023/05/29 (Mon) 14:33: User028 encouraged fellow creatives not to let fear hold them back from pursuing their passions, urging them to "embrace imperfection and take the leap," emphasizing that one never knows where it might lead. This message reflected their desire to inspire others by sharing their own vulnerabilities and experiences.
+
+Mentioned at 2023/05/30 (Tue) 10:54: User028 is planning a trip to Colorado and is seeking recommendations for hiking trails in Rocky Mountain National Park. 
+
+Mentioned at 2023/05/30 (Tue) 10:54: User028 is considering visiting their sister's family in Denver before heading to Rocky Mountain National Park and is looking for activities to do in Denver with kids.
+
+Mentioned at 2023/05/30 (Tue) 10:54: User028 is driving to Denver from the Bay Area in California and is inquiring about the driving distance and time.
+
+Mentioned at 2023/05/30 (Tue) 10:54: User028 recently took a road trip to Denver from the Bay Area, covering around 1,200 miles and taking approximately 18 hours with a few stops along the way.
+
+Mentioned at 2023/05/30 (Tue) 10:54: User028 had a great time in Denver visiting their sister's family, exploring the city, and hiking in Rocky Mountain National Park, which is about an hour and a half drive from their sister's house. They enjoyed "amazing views" from the top of the hike.
+
+Mentioned at 2023/05/30 (Tue) 10:54: User028 visited the Denver Zoo, which was enjoyable for the kids, and they also experienced the local craft beer and food scene, which "did not disappoint."
+
+Mentioned at 2023/05/30 (Tue) 03:06: user028 is planning a trip to Tokyo and is seeking recommendations for good restaurants near the Hilton Tokyo Shinjuku. They mentioned having positive experiences with Hyatt hotels, specifically recalling their stay at the Grand Hyatt Incheon on January 20th, where they enjoyed the Korean restaurant.
+
+Mentioned at 2023/05/30 (Tue) 03:06: user028 expressed interest in traditional Japanese breakfast options near the Hilton Tokyo Shinjuku, inquiring about good places that serve such meals.
+
+Mentioned at 2023/05/30 (Tue) 03:06: user028 utilized the fitness center at the Hilton Tokyo Shinjuku multiple times during their stay, finding it very convenient. They also mentioned using loyalty points to book a room at the Grand Hyatt DFW on their way back from Chicago, where they received a suite upgrade.
+
+Mentioned at 2023/05/30 (Tue) 03:06: user028 is considering booking a room at the Fontainebleau Miami Beach for a weekend getaway in April and inquired about the resort's loyalty program and any special perks for loyalty members.
+
+Mentioned at 2023/05/30 (Tue) 03:06: user028 requested information about the pool and beach facilities at the Fontainebleau Miami Beach, showing interest in the amenities available at the resort.
+
+Mentioned at 2023/05/30 (Tue) 13:47: user028 is trying to find something new to watch and has been really into royal dramas lately, specifically stating they loved "The Crown" Season 4. They asked for recommendations for similar shows.
+
+Mentioned at 2023/05/30 (Tue) 13:47: user028 finished the latest season of "The Crown" in two weeks, binge-watching five episodes in one night, which they described as "crazy," but they loved it. They have been using Netflix for about three years, making it their go-to platform for royal dramas and other shows.
+
+Mentioned at 2023/05/30 (Tue) 13:47: user028 expressed interest in "Bridgerton," noting they started watching it but did not finish. They are wondering if it's worth going back to, indicating they are considering continuing with the series.
+
+Mentioned at 2023/05/30 (Tue) 13:47: user028 has been using Amazon Prime Video to rent new releases, specifically mentioning "Wonder Woman 1984" and "Soul," which they watched with their family over the holidays.
+
+Mentioned at 2023/05/30 (Tue) 13:47: user028 is interested in checking out Amazon's original content, particularly "The Grand Tour," as they enjoy watching Jeremy Clarkson and the gang's banter. They are curious if the show is worth watching even if they are not a huge car enthusiast, but they mentioned they are a fan of cars.
+
+Mentioned at 2023/05/30 (Tue) 14:44: User028 expressed excitement about diving into the capstone project for the Data Science Specialization and demonstrating their skills in data science. They mentioned having a few ideas for the project and sought feedback on them, indicating a proactive approach to refining their project concept.
+
+Mentioned at 2023/05/30 (Tue) 14:44: User028 indicated their interest in the Coursera - Data Science Specialization course, seeking more information about the course structure and the skills they could expect to gain from it. They specifically highlighted the capstone project in the Advanced Data Science section and inquired about the project details and the skills they could demonstrate through it.
+
+Mentioned at 2023/05/30 (Tue) 14:44: User028 expressed interest in learning more about data science and analytics, asking for recommendations on online courses or resources to get started. They were proactive in seeking guidance to enhance their knowledge in the field.
+
+Mentioned at 2023/05/30 (Tue) 14:44: User028 expressed their desire to watch TED Talks on the future of work and the dark side of AI, indicating a focus on understanding the implications of AI on employment and society. They requested more information about the AI-driven job market and the skills that are in demand.
+
+Mentioned at 2023/05/30 (Tue) 14:44: User028 shared their interest in watching TED Talks related to AI and machine learning, specifically mentioning that they had re-watched talks on climate change and sleep. They sought recommendations for new talks in the AI and machine learning domain, demonstrating their eagerness to learn about emerging technologies.

@@ -1,0 +1,31 @@
+User profile:
+
+## Personal Information
+- Name: assistant019
+- Occupation: AI Language Model (Digital Artist using Midjourney AI)
+
+## Personality & Characteristics
+- Analytical and informative
+- Neutral and objective in responses
+- Communication style focused on clarity and factual accuracy
+- Experienced artist utilizing AI technology for art creation
+
+## Relationships
+- Interacts with users (e.g., user019) to provide information and answer questions
+
+## Interests & Activities
+- Creating fast, AI-generated abstract art illustrations
+- Utilizing Midjourney AI software for art creation
+- Engaging with clients to understand their vision and specifications
+- Developing quizzes related to geomancy and astrology
+- Knowledge of advanced aviation technology and environmental conservation practices
+
+## Life Situation
+- Operates as a digital assistant, providing information based on user inquiries
+- Continuously updated with knowledge up to October 2023
+- Offers services with a focus on fast turnaround and high-quality illustrations
+
+### Recent Updates
+- Engaged in creating a quiz with a focus on geomancy, incorporating house and figure combinations for a more challenging level.
+- Provided detailed technical information on updating Acceleration Structures in Vulkan for efficient object movement in 3D scenes.
+- Updated knowledge on the Kodian Frontier Service's policies and technologies, including the use of grav-bikes, FHLTs, and the "Survive and Come Home" (SACH) school for bush pilots.

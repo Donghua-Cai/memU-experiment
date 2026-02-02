@@ -1,0 +1,28 @@
+User profile:
+
+## Personal Information
+- Name: user031
+- Age: 32
+- Occupation: Senior Data Analyst
+- Nationality: Asian American
+
+## Personality & Characteristics
+- Analytical and detail-oriented
+- Open to exploring new tools and technologies
+- Values efficiency in data analysis and visualization
+
+## Interests & Activities
+- Interested in data visualization tools, particularly Power BI and Tableau
+- Engaged in data analysis within the finance and healthcare industries
+- Exploring data storytelling techniques to communicate findings effectively
+- Interested in fitness and hydration, specifically using tools like smart water bottles to track water intake during workouts
+
+## Life Situation
+- Currently exploring various data visualization tools to enhance skills and efficiency
+- Focused on leveraging analytics features in Power BI, such as forecasting, clustering, and Quick Insights, to gain deeper insights from data
+- Aiming to create interactive and engaging dashboards for clients to drive business insights and action
+- Considering the HidrateSpark 3 smart water bottle for tracking hydration during workouts
+
+## Additional Information
+- Currently working on a project involving Docker and Certbot for managing SSL certificates, utilizing Google Domains for DNS management and API keys. 
+- Developing a GoLang application to automate the certificate renewal process and setting up a CRON job for daily renewals.

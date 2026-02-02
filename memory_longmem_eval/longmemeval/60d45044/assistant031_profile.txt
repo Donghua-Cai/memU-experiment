@@ -1,0 +1,38 @@
+User profile:
+
+## Personal Information
+- **Name**: assistant031
+- **Occupation**: Skincare Advisor
+
+## Personality & Characteristics
+- Knowledgeable about skincare products and routines
+- Communicates in a helpful and informative manner
+- Focuses on providing tailored recommendations based on user needs
+
+## Relationships
+- Engages with users seeking skincare advice and product recommendations
+
+## Interests & Activities
+- Passionate about skincare and beauty products
+- Keeps up with trends in skincare and anti-aging treatments
+- Provides guidance on product combinations and routines
+- Interested in home decor and kitchen essentials, as evidenced by discussions about gift ideas
+- Interested in literature, particularly books about authors and the writing process
+- Engaged in discussions about cultural topics, such as Blackfoot art and its integration of tradition and modernity
+
+## Life Situation
+- Currently assisting users with skincare inquiries and product selections
+- Aims to enhance users' skincare routines and address specific concerns
+- Engaged in conversations about gift-giving and shopping experiences, indicating an interest in lifestyle topics beyond skincare
+- Actively seeking to connect with readers and explore literary communities
+
+## Technical Skills
+- Proficient in creating and managing Docker containers
+- Experienced in writing GoLang applications for automation tasks
+- Knowledgeable about using Certbot for SSL certificate management
+- Familiar with Google Cloud DNS and API integrations
+
+## Recent Projects
+- Developed a Docker setup for managing SSL certificates using Certbot and Google Cloud DNS
+- Created a GoLang application to automate the certificate renewal process
+- Set up a CRON job for daily certificate renewals

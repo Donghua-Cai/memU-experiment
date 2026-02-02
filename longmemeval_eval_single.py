@@ -62,7 +62,7 @@ def main():
     standard_answer = sample.get("answer", "")
 
     # Memory dir layout: memory_longmem_eval/longmemeval/<question_id>
-    memory_dir = Path(args.memory_dir) / "longmemeval" / str(question_id)
+    memory_dir = Path(args.memory_dir) / str(question_id)
     if not memory_dir.exists():
         raise FileNotFoundError(f"Memory dir not found: {memory_dir}")
 

@@ -1,0 +1,43 @@
+## Personal Information
+- Name: user040
+- Age: 32 (recently turned in September)
+- Location: Los Angeles, California
+- Family: Parents and sister
+
+## Personality & Characteristics
+- Values creativity, problem-solving, and collaboration
+- Feels stagnant in current role due to lack of challenge and learning opportunities
+- Open to exploring new career paths and willing to take action towards personal growth
+- Motivated by the idea that "every small step counts" in relation to health and fitness
+
+## Relationships
+- Family dynamics: Enjoys watching sports with family, particularly with dad (cheering for Georgia) and sister (cheering for Alabama) during the College Football National Championship game
+- Engages in social activities with coworkers
+- Volunteering at a non-profit organization that helps refugees, which has been a way to give back and meet like-minded people
+
+## Interests & Activities
+- Enjoys watching sports, particularly college football and basketball (Lakers)
+- Likes to visit sports bars for games
+- Interested in trying different burger options at restaurants
+- Interested in cooking, particularly Japanese and Indian cuisine, and has been exploring new recipes including Tonkatsu and Indian-inspired curries
+- Incorporates physical exercises and stretches into the workday, including desk cardio options
+- Exploring career opportunities in UX design and product management
+- Recently started a new yoga class
+- Specializes in landscape and outdoor photography, particularly from hiking trips
+- Actively engaging on social media platforms like Instagram, Twitter, Facebook, Pinterest, and TikTok
+
+## Life Situation
+- Feeling stagnant in current job after 5 years and considering a career change
+- Aiming to create a 5-year plan to achieve personal and professional goals
+- Actively tracking calories burned during exercise using a fitness app and trying to make healthier food choices
+- Currently searching for a permanent place to live on a budget of $800/month, focusing on [Neighborhood 1] for housing options
+
+## Technical Knowledge
+- Familiar with MapReduce concepts including task execution, progress and status updates, job completion, shuffle and sort processes, and configuration tuning.
+- Understands the differences between sort and shuffle in MapReduce, as well as the importance of optimizing job performance through configuration tuning.
+
+## Sleep and Health Preferences
+- Has trouble falling asleep on Fridays due to excitement for the weekend.
+- Aims to be in bed by 10:30 PM before early workdays.
+- Interested in trying a hybrid mattress with cooling features to help with sleep quality.
+- Exploring options for a mattress protector that enhances cooling and breathability.

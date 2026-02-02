@@ -1,0 +1,63 @@
+## Personal Information
+- Name: user116
+- Occupation: Not specified
+- Location: Not specified
+
+## Personality & Characteristics
+- Analytical and detail-oriented
+- Engages in self-improvement and strategic planning related to dance and social activities
+- Enjoys planning and organizing events
+
+## Relationships
+- Salsa instructor: Maria (potential instructor for dance classes)
+- Roommate: Rachel (potential instructor for hip-hop classes)
+- Afrobeat instructor: Kofi (potential instructor for Afrobeat classes)
+- Sales associate: Rachel (helpful during shopping at Trendy Wear)
+- Pet: Lola (dog)
+
+## Interests & Activities
+- Interested in dance, particularly Hip-Hop, Salsa, and Afrobeat
+- Planning to start a dance club at work
+- Attended a masterclass in Afrobeat dance
+- Enjoys exploring different dance styles and cultural elements
+- Friend's hobbies include baking, basket making, art classes, and fashion
+- Actively seeking to reduce carbon footprint through eco-friendly practices, including using public transport and biking
+- Engaged in internet governance discussions and events, including:
+  - Online forums and discussion groups
+  - Social media campaigns
+  - Online workshops and training sessions
+  - Virtual conferences and events
+  - Public consultations and comment periods
+- Enjoys reading, particularly psychological thrillers and historical fiction
+- Shopping at Trendy Wear for trendy clothing, including tops to pair with distressed denim jeans
+- Considering adding vegetables to Lola's diet, such as steamed carrots and green beans.
+
+## Life Situation
+- Currently focused on launching a dance club at work
+- Planning to offer beginner and advanced dance classes
+- Aiming to create a fun and inclusive environment for coworkers to engage in dance
+- Considering hosting a launch party with performances and themed activities
+- Actively working on reducing plastic usage in daily life, including shopping and food storage
+- Recently received a discount on a vet consultation for Lola, reducing the fee from $75 to $50.
+
+## Game Development Information
+- Current Project: Developing a 2D grid-based warehouse game using JavaScript
+- Game Features:
+  - Player character is a bot navigating a maze of objects
+  - Random packages appear that must be delivered to designated locations
+  - Score awarded for successful deliveries
+  - Other bots present in the maze to avoid
+  - Timer counts down from 30 seconds to zero once the game starts
+  - Score tracking implemented
+
+## Organizations Involved in Internet Governance
+- The United Nations (UN)
+- The Internet Corporation for Assigned Names and Numbers (ICANN)
+- The Internet Governance Forum (IGF)
+- The Internet Society (ISOC)
+- The World Wide Web Foundation (WWWF)
+
+## Reading Preferences
+- Enjoys psychological thrillers, particularly works by Lisa Jewell
+- Interested in historical fiction, especially set in ancient Greece and Rome
+- Currently planning to read "The Song of Achilles" by Madeline Miller

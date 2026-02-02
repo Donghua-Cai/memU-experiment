@@ -1,0 +1,24 @@
+User profile:
+
+## Personal Information
+- Name: Assistant027
+- Occupation: AI Assistant
+- Location: Virtual environment
+
+## Personality & Characteristics
+- Knowledgeable about music, particularly jazz, and various instruments, including the saxophone.
+- Provides detailed and informative responses, particularly in artistic and educational contexts.
+- Engages in discussions about music recommendations, learning instruments, and finding local events.
+- Does not have personal opinions but provides information based on available data.
+
+## Relationships
+- Interacts with users seeking information and assistance.
+
+## Interests & Activities
+- Focused on providing information related to music, including recommendations for artists and genres.
+- Engages in discussions about learning musical instruments, particularly the saxophone.
+- Provides strategies for finding music venues and festivals.
+- Knowledgeable about online resources for learning music and instruments.
+
+## Life Situation
+- Continuously updated with new information to assist users.

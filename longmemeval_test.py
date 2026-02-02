@@ -379,7 +379,12 @@ class LongMemEvalTester:
                 sessions, characters, max_workers=self.max_workers
             )
 
-            if getattr(args_global, "no_eval", False):
+            if not getattr(args_global, "enable_response", True):
+                generated_answer = ""
+                evaluation = {"is_correct": False, "explanation": "Response disabled"}
+                retrieved_content = ""
+                retrieved_events = []
+            elif getattr(args_global, "no_eval", False):
                 generated_answer = ""
                 evaluation = {"is_correct": False, "explanation": "Evaluation skipped"}
                 retrieved_content = ""
@@ -622,6 +627,18 @@ def main():
         "--force-resum", action="store_true", help="Force to redo the memory summarization"
     )
     parser.add_argument("--no-eval", action="store_true", help="Do not evaluate the results")
+    parser.add_argument(
+        "--enable-response",
+        action="store_true",
+        default=True,
+        help="Enable ResponseAgent (default: True). Use --disable-response to turn off.",
+    )
+    parser.add_argument(
+        "--disable-response",
+        action="store_false",
+        dest="enable_response",
+        help="Disable ResponseAgent (memory-only run)",
+    )
     parser.add_argument(
         "--analyze-on", type=str, default="wrong", help='Do detailed analysis on "all", "wrong", or "none"'
     )

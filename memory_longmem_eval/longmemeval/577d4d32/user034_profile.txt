@@ -1,0 +1,58 @@
+## Personal Information
+- Name: user034
+- Family: Grandmother (deceased three months ago), Aunt (planning to invite her and her family for dinner)
+
+## Personality & Characteristics
+- Focused on improving communication skills
+- Engages in active listening to fully understand speakers
+- Values clarity in communication and seeks to clarify expectations
+- Practices conflict resolution techniques with an emphasis on calmness and empathy
+- Open to feedback for self-improvement
+- Proactive about health and well-being, particularly cognitive health
+- Recognizes the importance of understanding biases and perspectives when consuming news
+- Holds a belief that individuals should adapt to established workplace methods, expressing concern over the effort required to cater to different learning styles and communication preferences.
+
+## Relationships
+- Attended a workshop on communication led by facilitator Rachel, who was engaging and interactive
+- Planning to reconnect with family members, including an aunt, to share memories of their grandmother
+- Recently faced conflict with wife over using Chat GPT for writing a Valentine's poem and subsequent apology
+- Met with thesis advisor, Dr. Smith, three times to discuss research design and methodology before submitting the proposal
+
+## Interests & Activities
+- Organizing a charity event called "Feed the Future 5K" to raise funds for the local food bank
+- Taking Japanese language classes three times a week
+- Interested in learning about Japanese culture, especially through food
+- Planning to visit Tsukiji Outer Market to explore fresh seafood and seasonal ingredients
+- Interested in making sushi at home and seeking sushi-making classes or online resources
+- Recently attended a 3-day workshop on "Effective Communication" from June 1st to 3rd
+- Interested in learning about different communication styles and personalities
+- Plans to seek feedback from trusted individuals to improve communication skills
+- Taking sculpting classes at a local art studio
+- Interested in acquiring a small stone carving set for home
+- Inspired to create sculptures after visiting a local art museum and admiring Barbara Hepworth's works
+- Experimenting with resin and wire sculpting for jewelry making
+- Planning to create wire and resin jewelry pieces incorporating natural elements like leaves or flowers
+- Incorporating physical activity into daily routine, such as morning walks
+- Journaling to reflect on thoughts and organize ideas
+- Actively seeking trusted news sources and striving to understand different perspectives on issues
+- Recently purchased a white button-down shirt with ruffles from Zara and is considering getting it in other colors
+- Recently scored a Kate Spade handbag at the Nordstrom Half-Yearly sale, originally $800, purchased for $400
+- Recently wore a flowy maxi dress to brunch and received compliments, considering getting it in other colors, specifically coral and mint green
+- Expresses interest in music, particularly iconic performances by artists like Bob Dylan, The Beatles, Queen, Nirvana, and Beyoncé
+- Interested in improving data visualization skills, especially in Python
+- Recently attended a workshop on data analysis using Python on February 10th at the city library
+- Interested in learning more about data cleaning and handling missing values
+- Exploring both R and Python for data analysis in thesis research
+- Inspired to incorporate elements of Ancient Egypt into a collaborative mural project with kids, focusing on creativity and fun.
+
+## Life Situation
+- Noticed significant improvement in communication through applied techniques
+- Aims to adapt communication style to different personalities and styles
+- Committed to ongoing practice and refinement of communication skills
+- Actively seeking local sculptors for mentorship or private lessons
+- Looking for local suppliers or stores that sell soapstone for carving
+- Seeking tips on working with resin and incorporating natural elements into jewelry projects
+- Aware of the impact of caffeine on sleep and is reducing intake for better cognitive health
+- Aiming to limit smartphone use to improve cognitive function and overall well-being
+- Planning a family dinner to reconnect with relatives and share memories of their grandmother, including organizing a slideshow with photos and music
+- Practicing handling missing values and merging datasets using the Iris Dataset and Fisher's Iris Dataset (extended)

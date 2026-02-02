@@ -1,0 +1,11 @@
+把数据集存在 data/ 目录下
+
+run_longmemeval_reconstruct.sh 用来跑memory construction，参数看一下原来的README.md，原本的代码设计是对于一个sample（比如longmemeval就有500个sample），先跑一遍construction，再基于这个construction跑检索回答，时间一般都卡在回答那块，所以我加了一个参数--disable-response，这个参数加上的话就会禁用回答，这个代码只跑memory构建
+
+run_longmemeval_eval_single.sh 用来跑检索回答，参数看脚本里
+
+你上述两个代码大概率都不需要改可以直接复用
+
+你需要做的，把每个sample里的haystack_session按照顺序（不用随机）给它拼起来，粒度按照backbone模型上下文窗口的50%、75%、100%（注意算的时候别把system prompt忘了）
+
+原始数据我完整跑过前116个sample，memory存在memory_longmem_eval/longmemeval； 另外memory_longmem_eval/longmemeval_reconstruct这里面存的是我改过的数据集的memory

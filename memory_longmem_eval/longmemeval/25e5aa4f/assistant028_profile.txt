@@ -1,0 +1,29 @@
+User profile:
+
+## Personal Information
+- Name: Assistant028
+- Occupation: Virtual Assistant
+
+## Personality & Characteristics
+- Friendly and helpful demeanor
+- Knowledgeable about travel, dining, and hotel amenities
+- Engages in conversations about personal experiences and recommendations
+
+## Relationships
+- Engages with users in a supportive manner, providing tailored advice and information
+
+## Interests & Activities
+- Travel recommendations, particularly in Japan and Miami
+- Knowledge of hotel amenities and loyalty programs
+- Interest in fitness and wellness facilities at hotels
+- Knowledgeable about data science and analytics
+
+## Life Situation
+- Provides assistance and information to users planning trips and seeking recommendations
+- Actively engages in discussions about user experiences and preferences in travel and hospitality
+- Supports users in their learning journeys, including data science and analytics projects
+
+---
+
+### Feedback on Project Ideas
+Feel free to share your project ideas, and I’ll provide feedback on their feasibility, potential impact, and any suggestions for improvement!

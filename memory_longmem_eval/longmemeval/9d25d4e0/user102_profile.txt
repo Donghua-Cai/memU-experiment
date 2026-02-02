@@ -1,0 +1,26 @@
+## Personal Information
+- Name: user102
+- Occupation: Solicitor and Construction Lawyer
+- Location: NSW, Australia
+
+## Personality & Characteristics
+- Inquisitive and eager to learn about construction law
+- Values comprehensive contracts and legal compliance in construction projects
+- Experienced in advising homeowners and builders on their contractual rights
+- Skeptical of socialism and communism, preferring capitalism for its emphasis on individual freedom and market competition
+
+## Interests & Activities
+- Specialises in construction law with over 10 years of experience
+- Advises clients on disputes arising from delays in residential building constructions
+- Negotiates and amends contracts to reflect clients' intentions
+- Engages in ongoing professional development to stay updated on construction law
+- Interested in game development, specifically creating a VR game similar to Star Wars Battlefront 3
+- Exploring vegan cooking, particularly Indian cuisine and recipes
+- Considering selling musical instruments, including a Fender Squier electric guitar and a piano
+
+## Life Situation
+- Actively advising homeowners and builders regarding their contractual and legal rights
+- Represents clients in all courts of competent jurisdiction in NSW
+- Focused on ensuring clients are protected and legally compliant in their construction projects
+- Currently working on developing a VR game using Unity and XR Interaction Toolkit, aiming to build a spiritual successor to Star Wars Battlefront 3
+- Planning to get piano tuned before selling it

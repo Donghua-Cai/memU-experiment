@@ -1,0 +1,34 @@
+## Personal Information
+- Name: user021
+- Family:
+  - Spouse: Michael (born August 12th)
+  - Siblings: 
+    - Brother: Alex (born November 25th)
+    - Niece: Emma (born February 10th)
+  - Parents: 
+    - Father: John (born January 1st)
+    - Mother: Emily (born March 17th)
+  - Cousin: Olivia (born October 5th)
+    - Cousin's adopted children: Jackson and Lily (adoption finalized on April 20th)
+
+## Personality & Characteristics
+- Organized and proactive in planning family events and important dates
+- Values family connections and keeping track of significant life events
+
+## Relationships
+- Close family ties with immediate family and extended family
+- Friendships with Rachel (who is adopting a baby boy named Aiden, expected arrival in early April) and colleagues like Sarah (due date for her baby is late September)
+
+## Interests & Activities
+- Interested in organizing family events and important dates (birthdays, adoptions, anniversaries)
+- Engages in discussions about family planning and celebrations
+- Tracking personal expenses and purchases
+
+## Life Situation
+- Currently married to Michael and hoping to start a family
+- Recently experienced a whirlwind of life events related to births and adoptions in the family and friend circle
+
+## Character: assistant021
+- Role: Expense tracking assistant
+- Capable of helping with categorizing purchases and organizing expenses
+- Engages in supportive and proactive communication to assist user021 with financial organization

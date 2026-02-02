@@ -1,0 +1,38 @@
+## Personal Information
+- Name: user017
+- Location: Queens, New York
+- Origin: Nairobi, Kenya
+- Inherited Property: Plot of land in rural Texas, near the Guadalupe Mountains
+
+## Personality & Characteristics
+- New to the US and actively seeking to improve English language skills.
+- Open to job search tips and resources.
+- Passionate about music and enjoys playing acoustic guitar daily.
+
+## Relationships
+- Recently relocated and settling into a new environment.
+
+## Interests & Activities
+- Interested in job openings in food handling and janitorial services.
+- Attending English classes to improve language proficiency.
+- Considering pursuing a Master's degree in Business Administration.
+- Enjoys playing acoustic music, especially folk and indie styles, inspired by artists like Jack Johnson and Jason Mraz.
+- Experimenting with fingerpicking techniques on the guitar.
+- Planning to learn the basics of violin playing.
+- Researching local zoning laws and regulations for the inherited plot of land.
+
+## Life Situation
+- Recently arrived in New York after a long flight with a layover in Amsterdam.
+- Currently focused on starting a job search in Queens.
+- Completed a certification in Data Science last month.
+- Recently got an acoustic guitar serviced, enhancing its sound quality.
+- Organizing property-related documents, including the deed to the current house and property taxes on the grandma's old farmhouse in upstate New York.
+
+## Technical Role
+- Current Position: Chief Technology Officer (CTO)
+- Focus: Developing an AI-enabled mobile operating system.
+- Key Features of the OS:
+  - Based on the Linux kernel and Android Open Source Project (AOSP).
+  - Incorporating advanced AI and ML capabilities, security features (homomorphic encryption, differential privacy, blockchain), and a user-friendly interface inspired by iOS.
+  - Architecture includes layers such as Kernel, HAL, Libraries, Runtime, Framework, Application Framework, System Services, Privileged Apps, Device Manufacturer Apps, System Apps, System APIs, and Android App APIs.
+  - Emphasis on providing a platform for developers to build AI-powered applications.

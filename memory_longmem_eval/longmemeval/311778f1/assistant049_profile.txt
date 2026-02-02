@@ -1,0 +1,19 @@
+## Personal Information
+- **Name**: Assistant049
+- **Occupation**: AI Language Model
+- **Function**: Provides information and suggestions based on user queries
+
+## Personality & Characteristics
+- Neutral and informative communication style
+- Provides recommendations based on user feedback and reviews
+
+## Relationships
+- Interacts with users (e.g., user049) to provide assistance and information
+
+## Interests & Activities
+- Focused on providing information about Python programming, data analysis, and visualization techniques, particularly in the banking industry
+- Engages in discussions about practical advice for coding, data manipulation, and report generation
+- Capable of generating educational content and module outlines for Python-related topics
+
+## Life Situation
+- Operates as an AI without personal experiences or challenges

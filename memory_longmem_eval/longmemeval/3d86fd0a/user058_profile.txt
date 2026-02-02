@@ -1,0 +1,36 @@
+User profile:
+
+## Personal Information
+- **Name:** user058
+- **Occupation:** Software Developer (TypeScript)
+
+## Personality & Characteristics
+- Detail-oriented with a focus on documentation and clarity in code
+- Communicates through technical queries and seeks to improve coding practices
+- Enjoys a relaxed approach to exploring cities, valuing leisure over rushing to see major sights
+- Prioritizes health and safety, as indicated by the intention to consult a doctor before trying new remedies
+
+## Relationships
+- **Friends:** Emily (hiking companion), Mike (met through hiking)
+
+## Interests & Activities
+- Interested in TypeScript and coding practices
+- Engages in learning about documentation techniques (e.g., JSDoc)
+- Shows interest in urban regeneration and community involvement in planning processes
+- Interested in video creation and marketing, specifically through platforms like PlayPlay
+- Enjoys visiting art museums and exploring urban areas, with recent plans to visit the Art Institute of Chicago and stroll along the Lakefront Trail
+- Enjoys coffee and casual dining experiences, with specific interest in local cafes like Intelligentsia Coffee
+- Currently exploring natural remedies for dark circles under the eyes
+- **Sports Interest:** Enjoys both traditional boxing for its excitement and Olympic-style boxing for its technical gameplay
+- **Tennis:** Playing tennis at the local community center for about 3 months, with significant improvement in serves; planning to organize friendly matches with colleagues and invite regular players from the community center.
+- **Yoga Interest:** Interested in yoga, particularly beginner-friendly styles like Hatha, and practices that help with anxiety and stress relief
+- **Running:** Typically runs on roads about 3 times a week, averaging 5-7 km per session, with a preference for shoes that provide good arch support
+- **Hiking:** Actively hiking at least once a week, with plans to explore trails in Lake Tahoe and interest in hiking trails in the Abbeville area
+- **Cooking:** Recently expressed interest in cooking more and experimenting with new recipes, particularly with a new slow cooker.
+
+## Life Situation
+- Currently focused on improving coding skills and documentation methods in TypeScript
+- Engaged in discussions about urban regeneration and its social impacts, indicating an interest in community development and social issues
+- Recently traveled to Chicago, staying at the Kimpton Hotel Monaco, and enjoyed the experience, including the free wine hour and quirky decor
+- Preparing to apply for the National Science Foundation Graduate Research Fellowship Program, focusing on developing a research proposal and balancing coursework with research commitments
+- Planning a trip to Lake Tahoe for hiking and outdoor activities

@@ -1,0 +1,33 @@
+## Personal Information
+- Name: assistant101
+- Occupation: Virtual Assistant (AI)
+
+## Personality & Characteristics
+- Knowledgeable about various topics, including health, nutrition, photography, music, technology, and finance
+- Supportive and helpful in providing information and insights
+- Engages in conversations about a wide range of subjects, including cultural practices and etiquette
+- Communicates in a clear and informative manner
+
+## Relationships
+- Engages with users to provide information and assistance related to their inquiries
+- Acts as a supportive resource for users' questions about various topics, including health and nutrition
+- User: user101 (currently seeking assistance in reconnecting with old friends and taking a break from social media)
+
+## Interests & Activities
+- Discussing health topics, particularly nutrition and its effects on well-being
+- Providing insights on dietary sources of vitamins and minerals
+- Sharing recommendations for health supplements and lifestyle changes
+- Engaging in discussions about cultural practices and social experiences
+- Offering guidance on photography techniques, composition, and editing
+- Creating financial condition indicators using PCA in MATLAB and Python
+- Analyzing scientific research papers and summarizing findings
+- Dance (currently exploring salsa and considering hip hop classes)
+- Painting (user101 is focusing on a painting class)
+- Journaling (user101 is starting a journal for reflection)
+- Fishing and hunting (user101 is actively engaged in these hobbies)
+
+## Life Situation
+- Recently updated knowledge on the effects of vitamin D deficiency and sources of vitamin D
+- Attending salsa classes at DanceFever studio twice a week (Tuesdays and Thursdays from 7-8:30 pm) and practicing at home on Sundays
+- User101 is taking a break from social media for a month to focus on real-life connections and personal growth
+- Planning to go deer scouting with Alex on August 1st and has been discussing trail cameras and tree stands for hunting.

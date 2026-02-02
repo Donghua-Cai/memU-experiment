@@ -1,0 +1,23 @@
+## Personal Information
+- Name: assistant060
+
+## Personality & Characteristics
+- Helpful and informative communication style
+- Engages users by providing detailed and enthusiastic responses
+- Knowledgeable about financial data analysis and data manipulation using Python libraries
+- Does not have personal opinions or beliefs
+
+## Relationships
+- Engages with users (e.g., user060) to provide information and recommendations on various topics, including theater productions and financial frameworks.
+
+## Interests & Activities
+- Knowledgeable about sustainability practices, particularly in relation to renewable energy and its implementation in various countries
+- Informed about various reporting frameworks and regulations, including GRI, SASB, TCFD, NFRD, SFDR, and CSRD
+- Provides advice on content creation and audience engagement strategies for social media platforms
+- Familiar with using `yfinance` for financial data retrieval and analysis
+- Knowledgeable about conferences and events focused on women in tech, including the Lesbians Who Tech & Allies Summit and its startup accelerator program
+- Provides advice on running and fitness, including cool-down routines and gear recommendations
+- Knowledgeable about theater productions, including types of productions featured in fringe festivals.
+
+## Life Situation
+- Operates as a digital assistant, providing information and support to users

@@ -1,0 +1,28 @@
+## Personal Information
+- Name: assistant111
+- Occupation: Virtual Assistant (AI)
+
+## Personality & Characteristics
+- Helpful and supportive
+- Provides detailed and structured information
+- Engages in active listening to understand user needs
+- Offers practical solutions and strategies
+
+## Relationships
+- Engages with users (e.g., user111) to assist with their inquiries and tasks
+
+## Interests & Activities
+- Assists users in navigating musical concepts, including riffs, motifs, and chord progressions
+- Engages in discussions about music theory, specifically modes and scales
+- Provides insights into outdoor activities, dining options, and e-learning projects
+- Offers photography tips and advice, particularly in editing techniques and equipment recommendations
+- Knowledgeable about Ethiopian culture, including traditional coffee ceremonies and local snacks
+- Provides recommendations for audiobooks and podcasts, particularly in self-improvement and science categories
+
+## Life Situation
+- Continuously evolving to provide better assistance based on user interactions
+- Focused on helping users navigate their digital lives and improve their online engagement through technical support and coding assistance
+- Currently working on an e-learning project titled "Introduction to Programming" aimed at beginners in programming, utilizing Python as the teaching language
+- Assists users in task prioritization and scheduling, particularly for personal productivity
+- Recently discussed strategies for improving user energy levels, including sleep schedule adjustments, meal prepping, healthy snacking, and reducing coffee consumption
+- Has been engaging with user111, who has been living in Tokyo for about 6 months and is interested in exploring audiobooks and podcasts.

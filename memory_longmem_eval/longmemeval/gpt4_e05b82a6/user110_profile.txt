@@ -1,0 +1,55 @@
+User profile:
+
+## Personal Information
+- Name: user110
+- Age: 32 (celebrated birthday last month)
+- Occupation: Engaged in discussions about environmental regulations and conservation; creating an AI-generated mind map tool for users on their website.
+- Family: Has a family history of health issues
+
+## Personality & Characteristics
+- Curious about environmental issues and conservation efforts
+- Appreciates strong enforcement mechanisms for environmental regulations
+- Values sustainable development and is impressed by Chile's initiatives
+- Thrill-seeker, enjoys rollercoasters and themed attractions
+- Motivated to take better care of health and fitness
+- Values authenticity and honesty in marketing, particularly towards Gen Z consumers
+
+## Relationships
+- Partner: Planning to move in together in about six months
+- Friends: Planning to meet up with friends at Halloween Horror Nights
+
+## Interests & Activities
+- Interested in environmental regulations and conservation projects
+- Engages in discussions about sustainability and environmental challenges
+- Follows current events related to environmental policies and initiatives
+- Enjoys attending theme parks and experiencing thrill rides, such as the Xcelerator rollercoaster at Knott's Berry Farm and the Revenge of the Mummy rollercoaster at Universal Studios Hollywood
+- Actively seeking information about buying a home and suitable neighborhoods for starting a family
+- Familiar with OctoPrint, a web-based interface for controlling 3D printers
+- Interested in configuring Samba to share files on a local network
+- Considering getting a fitness tracker (Fitbit Inspire) to monitor activity levels and sleep patterns
+- Interested in trying tofu as a protein source and exploring various cooking methods
+- Recently won an award for "Best Adult Costume" at Mickey's Halloween Party event at Disneyland on September 24th
+- Planning a trip to London from June 15th to 25th, including a day trip to Paris and Stonehenge
+- Planning to use Trello for project management and tracking sprint progress
+- Developing a sales page for an AI-generated mind map tool with 9 demos to attract users
+- Photography enthusiast, recently acquired a 50mm prime lens for capturing images, particularly of spring flowers
+- Planning a trip to Rhodes soon and interested in supporting environmentally friendly initiatives while there
+- Interested in animal encounters and has interacted with dolphins at SeaWorld San Diego
+- Interested in experimenting with different gin-based cocktails, particularly the Elderflower Spritz using St-Germain Elderflower Liqueur
+- Seeking advice on proper storage for elderflower liqueur to maintain freshness and flavor
+- Excited to visit the San Diego Zoo and check out the Tiger Trail exhibit. Interested in conservation efforts and behind-the-scenes tours at the zoo
+- **Loyalty Programs:**
+  - Fetch Rewards: 2,000 points, 0 rewards earned, redeemed 1,000 points for a $10 Target gift card
+  - SaveMore: 0 points, 0 rewards earned, redeemed 500 points for a $5 discount
+  - Walgreens: 10,000+ points, 0 rewards earned, redeemed points for prescription discounts and saved $10 with digital coupons
+  - Petco: 200 points, 0 rewards earned, redeemed a $5 welcome reward for a new cat toy
+  - The Daily Grind: 10 stamps, halfway to a free drink
+
+## Life Situation
+- Currently researching neighborhoods for potential home purchase
+- Budget for home purchase: $400,000 to $500,000
+- Planning to start a family in the future
+- Interested in neighborhoods with good schools and community amenities
+- Focused on improving personal health and fitness due to family health history
+- Working on a proposal for a new project, with tasks organized in Asana, including deadlines and reminders for each task
+- Organizing a project kick-off meeting for a new project, incorporating Agile methodologies learned from a workshop

@@ -1,0 +1,43 @@
+## Personal Information
+- Name: user062
+- Age: 37 (born February 20)
+- Location: Nearby city (attended "Rack Fest" on June 18)
+- Property: Inherited ancestral property in the countryside, approximately 2,500 square feet
+
+## Personality & Characteristics
+- Resilient and determined in pursuing healthy habits
+- Open to trying new meal prep ideas and recipes
+- Values convenience and nutrition in meal planning
+- Engages in thoughtful discussions about historical impacts and perspectives
+- Appreciates inspiring branding, particularly from Nike
+- Self-conscious about appearance, particularly regarding grey hairs
+
+## Relationships
+- Spouse: Wife (surprised user062 with a pair of Allen Edmonds shoes on Valentine's Day)
+
+## Interests & Activities
+- Meal planning and prepping healthy meals
+- Enjoys cooking and experimenting with recipes (e.g., overnight oats, breakfast burritos, smoothie packs)
+- Interested in healthy snacks and maintaining energy levels throughout the day
+- Engages in discussions about history, particularly the British Empire and its global impact
+- Interested in branding and marketing strategies
+- Engages in discussions about feminism and gender equality, particularly the concept of intersectionality
+- Interested in car maintenance and performance upgrades for a 2018 Ford Mustang GT
+- Planning to participate in a local track day event with the Mustang
+- Exploring skincare routines to address dryness and signs of aging
+- Exploring productivity and organization tools, specifically using Trello and Todoist for task management
+- Enjoys running and is considering using running apps to track routes and pace
+- Has experience with hiking and is considering purchasing new hiking boots
+- Interested in casual footwear, specifically Vans Old Skool sneakers
+- Engaged in research on image rain removal datasets (Rain100L and Rain100H)
+
+## Life Situation
+- Currently feeling sluggish in the mornings, likely due to sleeping in and having a late breakfast
+- Actively seeking ways to improve morning energy and overall health through meal prep and healthy eating habits
+- Exploring the possibility of using adjacent plot of land for a small agricultural project
+- Considering selling the adjacent plot of land and seeking information on market value and selling factors
+- Recently replaced old Nike Air Zoom Pegasus 38s with Adidas Ultraboost 22 for daily runs
+
+## Project Involvement
+- Currently working on a web portal project: Smart Reservation System for Multiple Venues
+- Tech Stack: Microservices web application using Angular, Bootstrap, Spring Boot, Spring Cloud Eureka, MySQL, Cassandra, GraphQL API, REST API, MuleSoft for API testing, TensorFlow Java for machine learning, CI/CD with GitHub, Maven, Docker, Jenkins, Scrum methodology with 5 sprints.
